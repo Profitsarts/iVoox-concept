@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "1E05D9B6-8D5C-4D70-B512-CFE8B46D036F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 38,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "18154037-B746-48FD-9DD3-5C60907733BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD3A1CCB-8FDE-48FC-AACD-96F0A006213D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "616795E7-F8FB-4ACB-8E9F-A44B575C8E2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A0A6C54-71E1-41A6-BA3F-EEDB45589596"
+    }
+  ],
+  "name": "hamburguer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

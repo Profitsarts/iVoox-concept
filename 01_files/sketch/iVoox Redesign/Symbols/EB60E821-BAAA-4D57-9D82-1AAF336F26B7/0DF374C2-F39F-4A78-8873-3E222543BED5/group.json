@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "0DF374C2-F39F-4A78-8873-3E222543BED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 652,
+    "width": 361,
+    "x": 7,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A4C5154D-7AB8-456C-9026-92E685889EF6"
+    },
+    {
+      "class": "group",
+      "id": "9AD5F586-162F-4AA4-9AD3-E516218885B1"
+    },
+    {
+      "class": "group",
+      "id": "E259A524-136D-4650-9ACE-410C809B91AD"
+    },
+    {
+      "class": "group",
+      "id": "E30E0F07-9C7D-48CE-A557-C05835B75A36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "662A0704-BE09-4354-BAAB-C276974F8402"
+    },
+    {
+      "class": "group",
+      "id": "444EDA51-FD11-4D4F-B965-873B27830092"
+    }
+  ],
+  "name": "Albums",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

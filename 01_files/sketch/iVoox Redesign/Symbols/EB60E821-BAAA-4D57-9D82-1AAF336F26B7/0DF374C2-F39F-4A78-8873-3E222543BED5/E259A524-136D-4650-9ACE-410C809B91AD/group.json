@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E259A524-136D-4650-9ACE-410C809B91AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 177,
+    "x": 0,
+    "y": 147
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "81A20B01-246A-47F2-A92C-AF0455431382"
+    },
+    {
+      "class": "group",
+      "id": "D4F8935C-FD32-4DB6-B642-B02793E9396A"
+    },
+    {
+      "class": "group",
+      "id": "C2ABB28D-ED4E-467D-B5D1-F6D055B296EE"
+    },
+    {
+      "class": "group",
+      "id": "30252195-6C1B-44FB-9D9A-4F33E2D5C888"
+    },
+    {
+      "class": "group",
+      "id": "040FAF8C-4291-4F89-8CD5-09DD4619F838"
+    }
+  ],
+  "name": "Radio",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
