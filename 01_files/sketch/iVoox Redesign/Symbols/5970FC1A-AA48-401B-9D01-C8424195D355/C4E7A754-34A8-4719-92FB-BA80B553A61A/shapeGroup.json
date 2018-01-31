@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18.9,
-    "width": 20.90909090909091,
-    "x": 4,
+    "width": 21.90909090909092,
+    "x": 2.999999999999998,
     "y": 5
   },
   "hasClickThrough": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",

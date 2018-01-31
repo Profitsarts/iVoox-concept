@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 38,
-    "x": 37,
-    "y": 253
+    "height": 48,
+    "width": 48,
+    "x": 301,
+    "y": 229
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -55,7 +55,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 20,
+        "blurRadius": 15,
         "color": {
           "_class": "color",
           "alpha": 0.15,

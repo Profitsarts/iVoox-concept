@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 2.074074074074074,
-    "width": 28,
-    "x": 0,
+    "width": 16,
+    "x": 12,
     "y": 0
   },
   "hasConvertedToNewRoundCorners": true,
@@ -79,5 +79,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }
