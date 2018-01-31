@@ -1,0 +1,122 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "20C045DC-A369-4EED-ACCB-54DC9F48343A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 704.4597014925373,
+    "width": 374,
+    "x": 0,
+    "y": 256
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 21,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "cards/home",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E7C6D85-C271-4AD4-8A2C-889254972A17",
+      "overrideName": "0279ED90-30BE-43AE-B96E-B6D1534CA40D_stringValue",
+      "value": "Clave 45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7014AE47-BA60-4D6E-825F-4741E736A24A",
+      "overrideName": "774AB9EC-76A7-4481-A8D0-5EB9624A6CD6_stringValue",
+      "value": "Clave 45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2EFC99D-5B5E-49B2-99FD-A95D30A16B6D",
+      "overrideName": "008A4016-413F-4FA6-9F39-76BFAB34F110_stringValue",
+      "value": "Clave 45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA07BBF2-3429-495D-A301-96D90E4C5608",
+      "overrideName": "6BB8DBC4-228E-4E9C-87C3-9670BE89E380_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1c2e56269bc8e395d245858af6cba0bf2ae68569",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "673438F6-6CDB-4E2A-A9BB-3A735551D834",
+      "overrideName": "900E11D5-61AE-4D82-A8BF-FC8F7AF7A8BE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/116b867293ebe6cdda6fe69ef18eab46d5106779",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "008A4016-413F-4FA6-9F39-76BFAB34F110": "Clave 45",
+    "0279ED90-30BE-43AE-B96E-B6D1534CA40D": "Clave 45",
+    "6BB8DBC4-228E-4E9C-87C3-9670BE89E380": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/1c2e56269bc8e395d245858af6cba0bf2ae68569",
+      "_ref_class": "MSImageData"
+    },
+    "774AB9EC-76A7-4481-A8D0-5EB9624A6CD6": "Clave 45",
+    "900E11D5-61AE-4D82-A8BF-FC8F7AF7A8BE": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/116b867293ebe6cdda6fe69ef18eab46d5106779",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35439531-3C04-40DF-9EE6-0CF295333528",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 704.4597,
+            "enabled": 1,
+            "modelID": "constraint_85eea078-7a85-42be-8215-03b23bab7f96",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 374
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2bd5986f-337e-46ca-809c-6ce689366e2d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
