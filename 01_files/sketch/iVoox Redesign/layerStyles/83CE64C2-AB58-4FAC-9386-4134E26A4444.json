@@ -1,0 +1,84 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "83CE64C2-AB58-4FAC-9386-4134E26A4444",
+  "name": "Gradient 2",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7898910984848485,
+          "green": 1,
+          "red": 0.8695875783699059
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0, 0}",
+          "gradientType": 0,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.788235294117647,
+                "green": 1,
+                "red": 0.8705882352941177
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0.9725490196078431,
+                "red": 0.6392156862745098
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 60,
+        "color": {
+          "_class": "color",
+          "alpha": 0.4,
+          "blue": 0.8745098039215686,
+          "green": 0.9882352941176471,
+          "red": 0.9176470588235294
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 30,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "83CE64C2-AB58-4FAC-9386-4134E26A4444",
+    "startDecorationType": 0
+  }
+}

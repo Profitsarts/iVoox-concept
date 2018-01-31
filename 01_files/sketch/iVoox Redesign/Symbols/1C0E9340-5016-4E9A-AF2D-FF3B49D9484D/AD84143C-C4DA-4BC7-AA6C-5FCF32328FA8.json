@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "2EF5E402-7BA5-4EAA-BC41-77FE33EE1EEC",
+  "_class": "symbolInstance",
+  "do_objectID": "AD84143C-C4DA-4BC7-AA6C-5FCF32328FA8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,32 +13,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 578,
-    "width": 375,
+    "height": 28,
+    "width": 28,
     "x": 0,
-    "y": 89
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
-  "isVisible": false,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "844781A3-C164-4D46-AE2E-D3664293C8A6"
-    },
-    {
-      "class": "bitmap",
-      "id": "39E16047-5B4E-4007-B584-9ACB404F1143"
-    }
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "color/aurometalsaurus",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "screenshot",
-  "nameIsFixed": false,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -46,10 +45,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "788C6D02-B50A-454E-A8DA-0B8DA1A40B55",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "2C15D559-2196-4797-80FC-79E75CD17840",
+  "do_objectID": "2BCD0734-0504-457B-B284-B645EC602C3E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,13 +14,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 327,
-    "width": 327,
+    "height": 260,
+    "width": 260,
     "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "64FEE6CF-E1E2-429F-AFF4-97F2CF939A0F"
+      "id": "CDCA9E21-690E-42DC-8820-E521E04C7E82"
     }
   ],
-  "name": "Bg",
+  "name": "Mask",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,14 +40,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 2.04,
-      "type": 0
-    },
     "endDecorationType": 0,
     "fills": [
       {
@@ -55,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9529411764705882,
-          "green": 0.9450980392156862,
-          "red": 0.9411764705882353
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
@@ -68,28 +60,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 11,
-        "color": {
-          "_class": "color",
-          "alpha": 0.15,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 11,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "userInfo": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 842,
+  "changeIdentifier": 11520,
   "do_objectID": "81BFD326-691C-4A3E-9757-E79DF88D770C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
-    "width": 119,
+    "height": 327,
+    "width": 327,
     "x": 0,
     "y": 2807
   },
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -49,27 +49,11 @@
     },
     {
       "class": "group",
-      "id": "A2F914EE-F5E7-4562-81B1-1E34D9AA06CD"
-    },
-    {
-      "class": "group",
-      "id": "0A5489B0-7FA9-42A4-A183-BD70589D878F"
-    },
-    {
-      "class": "group",
-      "id": "FBB03F50-1282-49FD-9ED2-DED37E58F998"
-    },
-    {
-      "class": "group",
-      "id": "A6DFC4D7-05A8-44A1-A8D4-C8CDD91B8753"
-    },
-    {
-      "class": "text",
-      "id": "9C23F89F-276B-491E-99C1-E15F40DC8643"
+      "id": "29CA0568-FE41-461C-8C1E-D3E6886E6487"
     }
   ],
-  "name": "modules/galleries/special",
-  "nameIsFixed": false,
+  "name": "modules/galleries/special_full",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
