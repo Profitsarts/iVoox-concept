@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 238,
+    "height": 240,
     "width": 327,
     "x": 24,
-    "y": 97
+    "y": 95
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -49,10 +49,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endDecorationType": 0,
-    "miterLimit": 10,
-    "startDecorationType": 0
+    "sharedObjectID": "9BCA3A10-0E08-4843-A06B-EB46D23EA8CA"
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

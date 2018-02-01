@@ -35,7 +35,7 @@
     "y": 89
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,8 +58,8 @@
       "id": "A37B82ED-6BA1-488F-89E4-14DF6659B57B"
     },
     {
-      "class": "symbolInstance",
-      "id": "C3259C62-C72B-441F-921D-F20CF0A7A0BA"
+      "class": "group",
+      "id": "434A909F-8959-4E02-B3BD-DA5587E76499"
     },
     {
       "class": "group",
@@ -72,6 +72,10 @@
     {
       "class": "group",
       "id": "41882830-1EFF-47CA-9B22-7292398B9B95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3259C62-C72B-441F-921D-F20CF0A7A0BA"
     },
     {
       "class": "symbolInstance",
@@ -93,7 +97,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

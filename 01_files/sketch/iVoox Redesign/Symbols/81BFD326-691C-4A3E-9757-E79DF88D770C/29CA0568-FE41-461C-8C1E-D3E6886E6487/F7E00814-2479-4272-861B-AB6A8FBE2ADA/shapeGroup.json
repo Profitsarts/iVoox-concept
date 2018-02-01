@@ -95,7 +95,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 50,
+        "blurRadius": 11,
         "color": {
           "_class": "color",
           "alpha": 0.15,
@@ -110,7 +110,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 50,
+        "offsetY": 11,
         "spread": 0
       }
     ],

@@ -49,16 +49,12 @@
       "id": "B9B0C475-6B9D-48A3-BA44-F7075DD956C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "5F1336CF-4747-47F4-A3C2-218DCE62F246"
-    },
-    {
-      "class": "group",
-      "id": "EE879596-FA2F-4C00-881D-451F1C862321"
-    },
-    {
       "class": "group",
       "id": "BCF14891-F2FE-4E67-A7F7-CB287DF56C8C"
+    },
+    {
+      "class": "group",
+      "id": "FA52B9AD-04B1-461E-A5C6-EAE001104E9C"
     },
     {
       "class": "symbolInstance",
@@ -71,6 +67,10 @@
     {
       "class": "group",
       "id": "2EF5E402-7BA5-4EAA-BC41-77FE33EE1EEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F1336CF-4747-47F4-A3C2-218DCE62F246"
     },
     {
       "class": "symbolInstance",
@@ -92,7 +92,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

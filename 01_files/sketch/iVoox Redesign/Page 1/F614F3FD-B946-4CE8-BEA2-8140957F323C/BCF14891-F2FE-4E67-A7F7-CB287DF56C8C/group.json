@@ -13,33 +13,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 230,
+    "height": 151,
     "width": 327,
     "x": 24,
-    "y": 277
+    "y": 280
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E412B797-9956-4B82-9A3F-1F3A952E11E7"
+    },
     {
       "class": "symbolInstance",
       "id": "6158F2CC-14C1-44C5-AB9F-303C9972FEB1"
     },
     {
-      "class": "text",
-      "id": "1761A539-FB83-48D2-9710-6524BEF0DC5B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "07F02D03-0F23-4B26-BFFB-2F50357A6F4F"
+      "class": "symbolInstance",
+      "id": "0F439968-32BB-421A-9D8C-482F2ED9937C"
     },
     {
       "class": "bitmap",
-      "id": "47FF1B5B-4D87-497D-B091-394BDF4E24B3"
+      "id": "18A3C707-8D75-48BB-8B98-EF3FFC85B8FD"
+    },
+    {
+      "class": "text",
+      "id": "1761A539-FB83-48D2-9710-6524BEF0DC5B"
     }
   ],
   "name": "Especial 01",

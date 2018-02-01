@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 260,
     "width": 260,
-    "x": -1,
-    "y": -102
+    "x": 0,
+    "y": -92
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "99%_Invisible_logo",
-  "nameIsFixed": false,
+  "name": "dev tea",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

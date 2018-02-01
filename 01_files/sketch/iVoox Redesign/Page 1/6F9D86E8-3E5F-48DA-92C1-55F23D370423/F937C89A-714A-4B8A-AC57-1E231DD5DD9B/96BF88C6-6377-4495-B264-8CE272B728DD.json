@@ -17,12 +17,12 @@
     "constrainProportions": true,
     "height": 260,
     "width": 260,
-    "x": -1,
-    "y": -37
+    "x": 0,
+    "y": -60
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/56b9cdbfbc20c091d742f787edb76f7334deabb2",
+    "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "99%_Invisible_logo",
-  "nameIsFixed": false,
+  "name": "destino arrakis",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 327,
+    "height": 121,
+    "width": 750,
     "x": 0,
     "y": 30
   },
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 60,
-  "masterInfluenceEdgeMaxYPadding": 100,
-  "masterInfluenceEdgeMinXPadding": 60,
-  "masterInfluenceEdgeMinYPadding": 30,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 22,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules/galleries/special_full",
   "nameIsFixed": false,
   "overrideValues": [
@@ -68,9 +68,153 @@
       "do_objectID": "FEC4E646-839A-4284-B908-AD10553D8B67",
       "overrideName": "CC36D1EE-AFA9-4713-B2AA-9BC786416185/277E6C81-F079-4345-96E6-B92E139CB107_symbolID",
       "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29CA3B0B-38BC-437A-BDB7-5B1FFCA60074",
+      "overrideName": "02BE516F-09CF-4575-AF3D-64EA06CE60FE/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "La órbita de Endor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECB43B6D-CB5F-4832-9A36-75A2458FE9EE",
+      "overrideName": "4880F839-1BB7-473C-9EF4-A56223A8A5CA/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1cd95c70b59d14c914a6980d383d149f5436cdfa",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A3B3FF0-DFA5-4F5C-9C29-F93D56DC43B6",
+      "overrideName": "2A6F2A1D-05DB-4D4E-9F28-ED7BB898F52A/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Hoy para ti"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7006DEA-3BD7-4B2E-A759-61100F24B158",
+      "overrideName": "26AB62FF-8057-498B-B810-11C56B78FD95/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0f2634cba4caaeb41e351f7498b696f843abd7c0",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAC7ABCF-E8E4-45C4-8C37-510415C197C1",
+      "overrideName": "26AB62FF-8057-498B-B810-11C56B78FD95/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Developer tea"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24026713-ECE9-4BFF-836F-972064B47964",
+      "overrideName": "685923D6-40D3-4BB3-9E52-46C5CF428843/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53CE17C4-407A-4C89-A902-28444C7DC5B1",
+      "overrideName": "685923D6-40D3-4BB3-9E52-46C5CF428843/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Destino Arrakis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD31F247-FC86-4FA3-BAA7-C459660888C2",
+      "overrideName": "D24FFE5D-C54B-44CA-A4FC-060A97F16659/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0c5e175d9a189df7046dfa96d507e3d87602a96e",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB188E44-FF16-4495-B7AE-C0B058F91A92",
+      "overrideName": "D24FFE5D-C54B-44CA-A4FC-060A97F16659/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Proyecto Macintosh"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F766EA6A-D646-400B-8A2C-0973E6C0B9A3",
+      "overrideName": "D9DDF4FA-2CC7-4C09-B8CD-1BB400A1D63E/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e1c272d19ad36f77fae4cb7239c20ff564a84ea3",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA35C1B6-4F2E-450B-82D9-841428063D77",
+      "overrideName": "D9DDF4FA-2CC7-4C09-B8CD-1BB400A1D63E/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Carne de videoclub"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A7A5D56-FA95-4026-BBB3-2C241D1245F3",
+      "overrideName": "4880F839-1BB7-473C-9EF4-A56223A8A5CA/EDB2F6DF-93D0-486D-944A-F73B524CCEC4_stringValue",
+      "value": "Serial"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E62248F2-7064-4C8D-BB98-987D1D4B2031",
+      "overrideName": "02BE516F-09CF-4575-AF3D-64EA06CE60FE/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/899d1fbf89e00209ebdc2ad6cc7b1ed7c6fe04de",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE5A59D8-5C8D-4251-85BD-E4A90413C61E",
+      "overrideName": "2A6F2A1D-05DB-4D4E-9F28-ED7BB898F52A/59C88C6D-4306-4452-A1C7-3DAE67686B6B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ebe3cef10c6f3a221ab373570aad15432123b3d6",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "overrides": {
+    "02BE516F-09CF-4575-AF3D-64EA06CE60FE": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/899d1fbf89e00209ebdc2ad6cc7b1ed7c6fe04de",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "La órbita de Endor"
+    },
+    "26AB62FF-8057-498B-B810-11C56B78FD95": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0f2634cba4caaeb41e351f7498b696f843abd7c0",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Developer tea"
+    },
+    "2A6F2A1D-05DB-4D4E-9F28-ED7BB898F52A": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ebe3cef10c6f3a221ab373570aad15432123b3d6",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Hoy para ti"
+    },
+    "4880F839-1BB7-473C-9EF4-A56223A8A5CA": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1cd95c70b59d14c914a6980d383d149f5436cdfa",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Serial"
+    },
     "52CD34FD-E734-4D2F-A145-3BE974D2A874": {
       "_class": "MSJSONFileReference",
       "_ref": "images/56b9cdbfbc20c091d742f787edb76f7334deabb2",
@@ -81,6 +225,14 @@
       "_ref": "images/1c3df8c39c8d04928e29081e9fe32681dfe73880",
       "_ref_class": "MSImageData"
     },
+    "685923D6-40D3-4BB3-9E52-46C5CF428843": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Destino Arrakis"
+    },
     "CC36D1EE-AFA9-4713-B2AA-9BC786416185": {
       "277E6C81-F079-4345-96E6-B92E139CB107": {
         "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
@@ -88,6 +240,22 @@
       "5C652399-3064-4F3C-B1A2-8ECEAB00D5A0": {
         "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
       }
+    },
+    "D24FFE5D-C54B-44CA-A4FC-060A97F16659": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0c5e175d9a189df7046dfa96d507e3d87602a96e",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Proyecto Macintosh"
+    },
+    "D9DDF4FA-2CC7-4C09-B8CD-1BB400A1D63E": {
+      "59C88C6D-4306-4452-A1C7-3DAE67686B6B": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e1c272d19ad36f77fae4cb7239c20ff564a84ea3",
+        "_ref_class": "MSImageData"
+      },
+      "EDB2F6DF-93D0-486D-944A-F73B524CCEC4": "Carne de videoclub"
     },
     "EA656DFD-B783-4210-A9E3-3DE689B9DABA": {
       "D81AFBD6-7679-4227-9739-E85B13794B1B": {
@@ -106,7 +274,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "6FC15DD5-1A40-44F5-96B3-08924CC074C5",
+  "symbolID": "468EC010-99EF-41F3-A6EB-FE6EFBA33AC8",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
