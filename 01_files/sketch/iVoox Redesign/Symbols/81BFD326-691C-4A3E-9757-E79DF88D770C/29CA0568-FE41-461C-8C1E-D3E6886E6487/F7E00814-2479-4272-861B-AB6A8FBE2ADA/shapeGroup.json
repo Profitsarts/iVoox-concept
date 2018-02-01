@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 252,
+    "height": 153.7777777777779,
     "width": 306,
     "x": 21,
-    "y": 75
+    "y": 46.2222222222222
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -115,6 +115,12 @@
       }
     ],
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "windingRule": 1
 }

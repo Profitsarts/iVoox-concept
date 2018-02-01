@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 260,
+    "height": 159.1111111111109,
     "width": 260,
     "x": 0,
     "y": 0
@@ -34,7 +34,7 @@
   ],
   "name": "Mask",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 61,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

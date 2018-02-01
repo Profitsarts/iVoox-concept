@@ -37,16 +37,20 @@
       "id": "A462628A-7EAF-4A4A-A494-631DE0A4883D"
     },
     {
-      "class": "bitmap",
-      "id": "B6E5E884-4989-4789-97D4-FCFF1CDEB7BC"
-    },
-    {
       "class": "artboard",
       "id": "F614F3FD-B946-4CE8-BEA2-8140957F323C"
     },
     {
+      "class": "artboard",
+      "id": "6F9D86E8-3E5F-48DA-92C1-55F23D370423"
+    },
+    {
       "class": "symbolInstance",
       "id": "FD6BE031-93AB-431E-8532-C6D78D3D5215"
+    },
+    {
+      "class": "bitmap",
+      "id": "6F275B63-9AAC-4FA2-85E9-F78A60457B69"
     }
   ],
   "name": "Page 1",

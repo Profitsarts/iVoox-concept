@@ -13,12 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 260,
+    "height": 160,
     "width": 260,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -31,7 +31,7 @@
     },
     {
       "class": "bitmap",
-      "id": "52CD34FD-E734-4D2F-A145-3BE974D2A874"
+      "id": "5BB30C52-841F-4807-A880-1C8193AB7EB7"
     }
   ],
   "name": "Img",
@@ -73,7 +73,7 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 252,
+            "constant": 160,
             "enabled": 1,
             "modelID": "constraint_e00e0d7c-b49f-4023-8e7c-4066893d953a",
             "model_class": "ADModelConstraint",

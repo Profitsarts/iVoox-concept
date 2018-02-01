@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21.81818181818182,
-    "width": 21.81818181818182,
-    "x": 1.09090909090909,
-    "y": 1.09090909090909
+    "height": 20.90909090909091,
+    "width": 20.90909090909091,
+    "x": 1.545454545454545,
+    "y": 1.545454545454545
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -77,5 +77,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

@@ -7,7 +7,7 @@
     "green": 0.9686274509803922,
     "red": 0.9686274509803922
   },
-  "changeIdentifier": 1613,
+  "changeIdentifier": 1614,
   "do_objectID": "23BD2D4E-2F8B-451C-B3EB-4EFCDE471341",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 20,
     "width": 375,
-    "x": 615,
+    "x": 0,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -56,7 +56,7 @@
       "id": "7D58A292-F094-4E78-BC7D-37ACABF53F4C"
     }
   ],
-  "name": "Bars/Status/Black",
+  "name": "bars/status/black",
   "nameIsFixed": true,
   "originalObjectID": "23BD2D4E-2F8B-451C-B3EB-4EFCDE471341",
   "resizesContent": true,
@@ -95,7 +95,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
@@ -104,4 +104,4 @@
     "guides": [
     ]
   }
-}
+}}

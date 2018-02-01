@@ -32,7 +32,8 @@
     "base": 0,
     "guides": [
       24,
-      351
+      351,
+      284
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,41 +45,41 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "2EF5E402-7BA5-4EAA-BC41-77FE33EE1EEC"
-    },
-    {
       "class": "shapeGroup",
       "id": "B9B0C475-6B9D-48A3-BA44-F7075DD956C7"
     },
     {
       "class": "symbolInstance",
-      "id": "1697C472-B797-4DC9-8974-14D57C02E3F2"
+      "id": "5F1336CF-4747-47F4-A3C2-218DCE62F246"
+    },
+    {
+      "class": "group",
+      "id": "EE879596-FA2F-4C00-881D-451F1C862321"
+    },
+    {
+      "class": "group",
+      "id": "BCF14891-F2FE-4E67-A7F7-CB287DF56C8C"
     },
     {
       "class": "symbolInstance",
       "id": "BF87DB1E-FDCB-4370-A5DC-D2B6463EBE92"
     },
     {
-      "class": "group",
-      "id": "59D20A88-E252-4A61-87F2-A000DFA7F3FF"
-    },
-    {
       "class": "text",
       "id": "E2721EBD-9893-4056-A84E-6F5D88D3C5D6"
     },
     {
-      "class": "text",
-      "id": "1761A539-FB83-48D2-9710-6524BEF0DC5B"
+      "class": "group",
+      "id": "2EF5E402-7BA5-4EAA-BC41-77FE33EE1EEC"
     },
     {
-      "class": "group",
-      "id": "16786AEE-B516-4F60-BE11-BCE27EEC9957"
+      "class": "symbolInstance",
+      "id": "1697C472-B797-4DC9-8974-14D57C02E3F2"
     }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Home",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -98,6 +99,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      367
     ]
   }
 }
