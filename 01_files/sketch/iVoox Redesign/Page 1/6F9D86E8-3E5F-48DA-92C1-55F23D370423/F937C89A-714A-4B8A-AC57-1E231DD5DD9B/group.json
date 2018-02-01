@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 200,
     "width": 327,
     "x": 24,
-    "y": 95
+    "y": 135
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -36,10 +36,6 @@
     {
       "class": "bitmap",
       "id": "96BF88C6-6377-4495-B264-8CE272B728DD"
-    },
-    {
-      "class": "text",
-      "id": "0080B437-9326-42DE-A349-1FEADCBB2AAD"
     }
   ],
   "name": "Especial 01",

@@ -40,6 +40,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "A07B5BF2-3230-4380-811A-5B7A9D547124",
     "endDecorationType": 0,
     "fills": [
       {
@@ -55,7 +64,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
-          "from": "{0, 0}",
+          "from": "{1, 1}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -64,9 +73,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.788235294117647,
-                "green": 1,
-                "red": 0.9880954283887468
+                "blue": 1,
+                "green": 0.7565549368128184,
+                "red": 0.5173808396464646
               },
               "position": 0
             },
@@ -75,14 +84,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.9254901960784314,
-                "green": 0.8862745098039215,
-                "red": 0.8235294117647058
+                "blue": 0.2687421085858586,
+                "green": 0.4818238782694494,
+                "red": 1
               },
               "position": 1
             }
           ],
-          "to": "{0.86192602040816324, 0.86192602040816324}"
+          "to": "{0, 0}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -95,7 +104,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 60,
+        "blurRadius": 30,
         "color": {
           "_class": "color",
           "alpha": 0.4,
@@ -110,7 +119,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 30,
+        "offsetY": 15,
         "spread": 0
       }
     ],

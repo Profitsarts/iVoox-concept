@@ -18,7 +18,7 @@
     "height": 260,
     "width": 260,
     "x": 0,
-    "y": -60
+    "y": -100
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -37,18 +37,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 16.64,
-      "type": 0
-    },
-    "endDecorationType": 0,
-    "miterLimit": 10,
-    "startDecorationType": 0
+    "sharedObjectID": "56D75D2B-2216-48F9-8A09-742EADB1D511"
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

@@ -16,7 +16,7 @@
     "height": 200,
     "width": 327,
     "x": 0,
-    "y": 40
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,18 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 11,
-  "masterInfluenceEdgeMaxYPadding": 60,
-  "masterInfluenceEdgeMinXPadding": 60,
-  "masterInfluenceEdgeMinYPadding": 30,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 66,
+  "masterInfluenceEdgeMinXPadding": 54,
+  "masterInfluenceEdgeMinYPadding": 15,
   "name": "modules/galleries/special_full",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "EA656DFD-B783-4210-A9E3-3DE689B9DABA/D81AFBD6-7679-4227-9739-E85B13794B1B_symbolID",
-      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
-    },
     {
       "_class": "overrideValue",
       "overrideName": "52CD34FD-E734-4D2F-A145-3BE974D2A874_image",
@@ -69,6 +64,12 @@
       "do_objectID": "3ED9C6E9-D125-4529-9BA8-42A61FEB0B2C",
       "overrideName": "E3762261-61E0-4960-AAAC-CE406653E27B_stringValue",
       "value": "DESTINO ARRAKIS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "730FB8BE-2A9F-44E3-99A2-2BC2A8EAFD11",
+      "overrideName": "EA656DFD-B783-4210-A9E3-3DE689B9DABA/D81AFBD6-7679-4227-9739-E85B13794B1B_symbolID",
+      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
     }
   ],
   "overrides": {

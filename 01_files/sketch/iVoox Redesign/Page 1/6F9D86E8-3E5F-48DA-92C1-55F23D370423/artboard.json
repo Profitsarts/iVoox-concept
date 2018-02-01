@@ -80,6 +80,10 @@
     {
       "class": "symbolInstance",
       "id": "D45F5638-4EA5-423B-8D81-BF08EE7A9814"
+    },
+    {
+      "class": "text",
+      "id": "4BFBB842-68F7-45E1-8C0A-D343AE9D5173"
     }
   ],
   "name": "Special",

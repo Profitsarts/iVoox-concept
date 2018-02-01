@@ -48,6 +48,7 @@
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "CF9C3A77-3FE5-4458-86F6-E9B03716E7E0",
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,7 +64,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
-          "from": "{0, 0}",
+          "from": "{1, 1}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -72,9 +73,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.788235294117647,
-                "green": 1,
-                "red": 0.8705882352941177
+                "blue": 1,
+                "green": 0.7565549368128184,
+                "red": 0.5173808396464646
               },
               "position": 0
             },
@@ -83,14 +84,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.9725490196078431,
-                "red": 0.6392156862745098
+                "blue": 0.2687421085858586,
+                "green": 0.4818238782694494,
+                "red": 1
               },
               "position": 1
             }
           ],
-          "to": "{1, 1}"
+          "to": "{0, 0}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

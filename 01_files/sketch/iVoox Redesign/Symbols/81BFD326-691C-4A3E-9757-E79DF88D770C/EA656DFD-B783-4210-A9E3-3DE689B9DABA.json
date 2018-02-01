@@ -12,9 +12,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 44,
-    "width": 44,
+    "constrainProportions": true,
+    "height": 46,
+    "width": 46,
     "x": 0,
     "y": 0
   },
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 60,
-  "masterInfluenceEdgeMaxYPadding": 90,
-  "masterInfluenceEdgeMinXPadding": 60,
-  "masterInfluenceEdgeMinYPadding": 30,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 45,
+  "masterInfluenceEdgeMinXPadding": 30,
+  "masterInfluenceEdgeMinYPadding": 15,
   "name": "modules/galleries/counter",
   "nameIsFixed": false,
   "overrideValues": [
@@ -58,6 +58,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 46,
+            "enabled": 1,
+            "modelID": "constraint_778918fd-2845-4744-ab39-3c8f79acc33c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 46
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d6432cbc-c7c6-4a01-b27b-dabb16b1f589",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   },

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 23713,
+  "changeIdentifier": 23715,
   "do_objectID": "EB60E821-BAAA-4D57-9D82-1AAF336F26B7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 631,
     "width": 375,
     "x": 0,
-    "y": 728
+    "y": 749
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -66,7 +66,7 @@
   "symbolID": "35439531-3C04-40DF-9EE6-0CF295333528",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

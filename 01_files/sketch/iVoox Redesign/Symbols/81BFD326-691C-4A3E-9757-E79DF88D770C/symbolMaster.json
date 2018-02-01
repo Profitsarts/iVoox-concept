@@ -7,7 +7,7 @@
     "green": 0.8958333333333334,
     "red": 0.8958333333333334
   },
-  "changeIdentifier": 17043,
+  "changeIdentifier": 17725,
   "do_objectID": "81BFD326-691C-4A3E-9757-E79DF88D770C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 327,
-    "x": 239,
-    "y": 2829
+    "x": 1793,
+    "y": 2850
   },
   "grid": {
     "_class": "simpleGrid",
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -75,7 +75,7 @@
       "id": "2AD37844-252C-4DDE-B22A-2FF676A112B2"
     }
   ],
-  "name": "modules/galleries/special_full",
+  "name": "modules/galleries/special_mid",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -109,7 +109,7 @@
   "symbolID": "6FC15DD5-1A40-44F5-96B3-08924CC074C5",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
