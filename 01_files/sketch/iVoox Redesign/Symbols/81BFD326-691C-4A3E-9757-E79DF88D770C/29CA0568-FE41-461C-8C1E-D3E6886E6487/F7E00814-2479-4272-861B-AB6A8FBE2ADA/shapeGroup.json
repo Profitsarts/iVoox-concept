@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 153.7777777777779,
+    "height": 176.0000000000001,
     "width": 305,
     "x": 22,
-    "y": 46.2222222222222
+    "y": 24
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -95,7 +95,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 11,
+        "blurRadius": 50,
         "color": {
           "_class": "color",
           "alpha": 0.15,
@@ -110,7 +110,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 11,
+        "offsetY": 50,
         "spread": 0
       }
     ],

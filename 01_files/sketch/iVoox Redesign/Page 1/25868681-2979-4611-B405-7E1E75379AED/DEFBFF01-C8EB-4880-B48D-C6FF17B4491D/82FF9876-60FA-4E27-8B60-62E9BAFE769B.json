@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 11,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 18,
   "masterInfluenceEdgeMinXPadding": 30,
   "masterInfluenceEdgeMinYPadding": 15,
   "name": "modules/galleries/special_full",

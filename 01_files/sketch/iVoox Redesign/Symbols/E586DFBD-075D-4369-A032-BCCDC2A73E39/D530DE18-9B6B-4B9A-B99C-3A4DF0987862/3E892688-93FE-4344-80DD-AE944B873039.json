@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 6.47058823529412,
-    "width": 6.470588235294112,
-    "x": 11.64705882352942,
-    "y": 5.176470588235288
+    "height": 8.235294117647062,
+    "width": 8.23529411764705,
+    "x": 14.82352941176472,
+    "y": 6.58823529411764
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -77,5 +77,26 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 8.235294,
+            "enabled": 1,
+            "modelID": "constraint_99c2ed67-ce05-4961-b6ba-645a7bc4ff64",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 8.235294
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c38e87e1-1a71-4765-8825-1bf611e95d6d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
 }

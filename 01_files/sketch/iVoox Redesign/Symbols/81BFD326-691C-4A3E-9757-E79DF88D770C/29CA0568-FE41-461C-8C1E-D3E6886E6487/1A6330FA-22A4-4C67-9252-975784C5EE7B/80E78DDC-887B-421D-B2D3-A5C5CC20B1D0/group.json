@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -56,7 +56,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 50,
         "spread": 0
@@ -67,6 +67,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 160,
+            "enabled": 1,
+            "modelID": "constraint_3f6b0313-ac3d-4836-b24a-0d1ace174bc2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 260
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4f8242ef-8a72-4c0a-af7d-7f22b3cb641f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

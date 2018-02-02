@@ -67,11 +67,11 @@
     },
     {
       "class": "group",
-      "id": "F937C89A-714A-4B8A-AC57-1E231DD5DD9B"
+      "id": "41882830-1EFF-47CA-9B22-7292398B9B95"
     },
     {
-      "class": "group",
-      "id": "41882830-1EFF-47CA-9B22-7292398B9B95"
+      "class": "symbolInstance",
+      "id": "CA69C2BB-BE27-4ED0-A1C3-81436D3AC667"
     },
     {
       "class": "symbolInstance",
@@ -109,7 +109,7 @@
     "base": 0,
     "guides": [
       101,
-      135
+      133
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "4DEB8686-6A73-453C-B7D3-E775951B889D",
+  "_class": "symbolInstance",
+  "do_objectID": "9F7EC504-3267-44C9-A9CC-091CF3F9619C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,47 +13,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 17,
-    "x": 6,
-    "y": 5
+    "height": 28,
+    "width": 28,
+    "x": 249,
+    "y": 16
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "A51B5115-FB8C-4D78-889E-EEBCDB27EDE5"
-    }
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Icons/subscriptions",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Image",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 5,
-      "type": 0
-    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "D624B0AB-B9FC-4463-855A-76BEC36694DB",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 25,
+    "height": 28,
+    "width": 28,
     "x": 280,
-    "y": 55
+    "y": 36
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -46,7 +46,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.9,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

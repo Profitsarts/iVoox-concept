@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4715,
+  "changeIdentifier": 4744,
   "do_objectID": "E586DFBD-075D-4369-A032-BCCDC2A73E39",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,16 @@
       "id": "25196916-4913-444D-98E7-60EFE62B339B"
     },
     {
-      "class": "group",
-      "id": "4DEB8686-6A73-453C-B7D3-E775951B889D"
+      "class": "shapeGroup",
+      "id": "517C3480-D20F-4322-B943-4BC718044DCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70BFB9F2-2589-46A7-8FEC-501B10E28BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD500B7C-1F7B-432E-B14D-1FCEE6FEB4AF"
     }
   ],
   "name": "Icons/img",

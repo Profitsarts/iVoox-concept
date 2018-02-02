@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 28,
     "width": 28,
     "x": 0,
-    "y": 2
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -33,11 +33,11 @@
     },
     {
       "class": "shapePath",
-      "id": "3E736D71-3F9F-4135-93FB-4150A655E989"
+      "id": "792C3D61-3116-40C2-8E6D-93936F28E04C"
     },
     {
       "class": "shapePath",
-      "id": "792C3D61-3116-40C2-8E6D-93936F28E04C"
+      "id": "AE9251DA-C808-4CD5-B4E4-F5ED77D757DD"
     }
   ],
   "name": "Shape",

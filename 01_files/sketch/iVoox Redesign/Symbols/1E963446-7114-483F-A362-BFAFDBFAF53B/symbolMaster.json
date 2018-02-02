@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3967,
+  "changeIdentifier": 4341,
   "do_objectID": "1E963446-7114-483F-A362-BFAFDBFAF53B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +44,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A3448D5B-8739-4F6F-A579-6142341C41D5"
+      "class": "shapeGroup",
+      "id": "DE3D1768-72B9-4029-BBF9-E766AEC185DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BAA1383-4886-4730-AA54-8E8D08A94D7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B75597B8-75F5-4B3E-8293-FCB21BEAA168"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4489960F-5EE0-415C-8997-46D02C2B4169"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02C6333F-B1E7-4335-AF9F-BD6D5951B400"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F7EC504-3267-44C9-A9CC-091CF3F9619C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F6CD3C3-1FD7-4EA7-9DA2-D4BF2B09E0D7"
     }
   ],
   "name": "bars/footer",
