@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "4EE9B4B3-1F5E-4AE6-B6CF-07BA8DDB8374",
+  "do_objectID": "05410D28-3E48-47A4-B43F-335F66F58897",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,9 +24,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 54,
-  "masterInfluenceEdgeMaxYPadding": 106,
-  "masterInfluenceEdgeMinXPadding": 32,
+  "masterInfluenceEdgeMaxXPadding": 70,
+  "masterInfluenceEdgeMaxYPadding": 140,
+  "masterInfluenceEdgeMinXPadding": 54,
   "masterInfluenceEdgeMinYPadding": 15,
   "name": "modules/galleries/special_full",
   "nameIsFixed": false,
@@ -67,12 +67,12 @@
     {
       "_class": "overrideValue",
       "overrideName": "EA656DFD-B783-4210-A9E3-3DE689B9DABA/54B62DB9-CCA8-4861-83BF-249EF066BA0C_stringValue",
-      "value": "140"
+      "value": "178"
     },
     {
       "_class": "overrideValue",
       "overrideName": "E3762261-61E0-4960-AAAC-CE406653E27B_stringValue",
-      "value": "99% INVISIBLE"
+      "value": "CARNE DE VIDEOCLUB"
     }
   ],
   "overrides": {
@@ -94,9 +94,9 @@
         "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
       }
     },
-    "E3762261-61E0-4960-AAAC-CE406653E27B": "99% INVISIBLE",
+    "E3762261-61E0-4960-AAAC-CE406653E27B": "CARNE DE VIDEOCLUB",
     "EA656DFD-B783-4210-A9E3-3DE689B9DABA": {
-      "54B62DB9-CCA8-4861-83BF-249EF066BA0C": "140",
+      "54B62DB9-CCA8-4861-83BF-249EF066BA0C": "178",
       "D81AFBD6-7679-4227-9739-E85B13794B1B": {
         "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
       }

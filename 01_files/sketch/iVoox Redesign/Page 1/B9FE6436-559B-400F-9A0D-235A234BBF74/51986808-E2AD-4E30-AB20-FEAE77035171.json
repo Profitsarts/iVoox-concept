@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "434A909F-8959-4E02-B3BD-DA5587E76499",
+  "_class": "symbolInstance",
+  "do_objectID": "51986808-E2AD-4E30-AB20-FEAE77035171",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,36 +13,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 327,
-    "x": 24,
-    "y": 583
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 608
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "4EE9B4B3-1F5E-4AE6-B6CF-07BA8DDB8374"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0A1241E0-5BAE-485D-A9F3-63D2A7E3AAFA"
-    },
-    {
-      "class": "bitmap",
-      "id": "FA795E4D-56DD-4124-8F2C-2169721891C7"
-    }
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "bars/footer",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Especial 03",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -50,10 +45,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "BA1F1161-58A6-484A-B99F-E4309AA85802",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

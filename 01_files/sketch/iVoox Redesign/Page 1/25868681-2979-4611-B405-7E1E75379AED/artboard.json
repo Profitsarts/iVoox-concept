@@ -93,14 +93,14 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      101,
+      102,
       135
     ]
   }

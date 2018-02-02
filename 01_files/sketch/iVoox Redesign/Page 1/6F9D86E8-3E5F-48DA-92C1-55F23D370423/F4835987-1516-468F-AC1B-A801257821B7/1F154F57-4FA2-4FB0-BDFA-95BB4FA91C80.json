@@ -24,12 +24,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 54,
-  "masterInfluenceEdgeMaxYPadding": 106,
-  "masterInfluenceEdgeMinXPadding": 32,
+  "masterInfluenceEdgeMaxXPadding": 70,
+  "masterInfluenceEdgeMaxYPadding": 140,
+  "masterInfluenceEdgeMinXPadding": 54,
   "masterInfluenceEdgeMinYPadding": 15,
-  "name": "modules/galleries/special_full",
-  "nameIsFixed": false,
+  "name": "modules/galleries/special_mid",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

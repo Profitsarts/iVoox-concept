@@ -16,7 +16,7 @@
     "height": 200,
     "width": 327,
     "x": 24,
-    "y": 359
+    "y": 133
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -38,7 +38,7 @@
       "id": "2D6485CD-2E79-4BFD-BC71-E34BD7D77CFE"
     }
   ],
-  "name": "Especial 02",
+  "name": "Especial 01",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,7 +64,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

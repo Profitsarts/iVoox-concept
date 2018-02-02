@@ -18,11 +18,11 @@
     "height": 260,
     "width": 260,
     "x": 0,
-    "y": -92
+    "y": -100
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/0f2634cba4caaeb41e351f7498b696f843abd7c0",
+    "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
