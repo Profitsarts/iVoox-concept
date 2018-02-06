@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 282,
-    "width": 308,
+    "height": 473,
+    "width": 327,
     "x": 24,
     "y": 101
   },
@@ -30,7 +30,7 @@
       "id": "F5198956-FDC5-4839-8D74-9A19CB45B85D"
     }
   ],
-  "name": "Especial 01",
+  "name": "Episodes",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

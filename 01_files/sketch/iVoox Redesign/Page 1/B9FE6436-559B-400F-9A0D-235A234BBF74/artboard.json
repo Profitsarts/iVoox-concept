@@ -62,8 +62,8 @@
       "id": "72538B96-6060-4086-AEF8-99F0CCCFA0C2"
     },
     {
-      "class": "group",
-      "id": "5FECE1A2-969B-4B47-B5DC-1788EFACD50C"
+      "class": "symbolInstance",
+      "id": "51986808-E2AD-4E30-AB20-FEAE77035171"
     },
     {
       "class": "symbolInstance",
@@ -72,13 +72,9 @@
     {
       "class": "symbolInstance",
       "id": "19F0CC6B-B687-4568-AB06-FE817665CEF9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "51986808-E2AD-4E30-AB20-FEAE77035171"
     }
   ],
-  "name": "Special Detail Copy",
+  "name": "Podcast episodes",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -93,7 +89,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

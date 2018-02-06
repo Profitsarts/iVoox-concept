@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "577DB986-3206-40FE-B945-0E6548449639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 170,
+    "x": 0,
+    "y": -1.13686837721616e-13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9C1F568A-2353-4F08-B2B8-8858EA199EA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C53C2B76-FF23-4994-81DF-EC6F6DD95249"
+    },
+    {
+      "class": "text",
+      "id": "DA1545C5-AA5F-4284-AAB6-D38F9B86649D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AB3D674-39EF-4362-ACE2-973991E7A113"
+    },
+    {
+      "class": "text",
+      "id": "5B8F5088-C83C-469B-888C-817F386DEFDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E38A32E-DE38-4570-84EE-33A1A6856C12"
+    }
+  ],
+  "name": "modules/galleries/podcast-episodes-data",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

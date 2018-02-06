@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "62DAA483-4692-4629-840E-BAB276DBF83D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 120,
+    "x": 104,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "modules/galleries/podcast-episodes-main-img",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF251A2A-C90B-4C18-8960-099C6B1FC5D1",
+      "overrideName": "AC9CE374-6E70-43E6-92B9-2BCED2B4FB33_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "AC9CE374-6E70-43E6-92B9-2BCED2B4FB33": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/9f700d68d1e5027306dd11812574ae4ac4c864d9",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0BBFDD1-F69E-4BAE-A018-26FC3ED9077D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

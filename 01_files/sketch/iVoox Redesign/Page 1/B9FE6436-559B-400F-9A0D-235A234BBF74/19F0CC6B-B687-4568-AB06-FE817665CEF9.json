@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Bars/Status/Black Copy",
-  "nameIsFixed": false,
+  "name": "Bars/Status/Black",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

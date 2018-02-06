@@ -13,25 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 49,
     "width": 49,
     "x": 271.9999999999999,
-    "y": 66.99999999999989
+    "y": 65.99999999999989
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "325CEE29-035E-4E5B-AF7B-A0D65ABB61D0"
     },
     {
-      "class": "bitmap",
-      "id": "75C340E8-9C62-413E-B8BB-62EB3B837DDE"
+      "class": "symbolInstance",
+      "id": "9E7B304C-E811-4CA5-A540-C713ADEEF316"
     }
   ],
   "name": "Cover",
