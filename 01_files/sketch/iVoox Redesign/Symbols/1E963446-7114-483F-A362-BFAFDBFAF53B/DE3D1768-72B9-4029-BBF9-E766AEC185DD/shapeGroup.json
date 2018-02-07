@@ -71,10 +71,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 1,
+        "blurRadius": 3,
         "color": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 0.15,
           "blue": 0,
           "green": 0,
           "red": 0

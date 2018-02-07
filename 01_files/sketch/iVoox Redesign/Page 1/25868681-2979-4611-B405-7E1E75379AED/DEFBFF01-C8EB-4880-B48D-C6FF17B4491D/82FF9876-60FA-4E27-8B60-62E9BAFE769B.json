@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 10,
-  "masterInfluenceEdgeMaxYPadding": 45,
+  "masterInfluenceEdgeMaxYPadding": 22,
   "masterInfluenceEdgeMinXPadding": 33,
   "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/special_full",
@@ -71,7 +71,7 @@
       "_class": "overrideValue",
       "do_objectID": "680A47F0-9D83-4D3D-A075-0295C2BB507A",
       "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/F1181091-124C-4800-BBA9-B23E47D39FAA_symbolID",
-      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
+      "value": "4A97862F-A643-41D6-8676-66A35CBBC89C"
     },
     {
       "_class": "overrideValue",
@@ -157,7 +157,7 @@
         "DF2CEAE4-D56A-4878-9E40-30781CBA2A0A": "VER PODCASTS"
       },
       "F1181091-124C-4800-BBA9-B23E47D39FAA": {
-        "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
+        "symbolID": "4A97862F-A643-41D6-8676-66A35CBBC89C"
       }
     }
   },

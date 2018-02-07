@@ -74,7 +74,7 @@
       "id": "19F0CC6B-B687-4568-AB06-FE817665CEF9"
     }
   ],
-  "name": "Podcast episodes",
+  "name": "Podcast list of episodes",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -96,8 +96,9 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      102,
-      135
+      100,
+      135,
+      220
     ]
   }
 }

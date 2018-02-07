@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 45,
   "masterInfluenceEdgeMinXPadding": 30,
   "masterInfluenceEdgeMinYPadding": 15,
-  "name": "modules/galleries/episode copy",
-  "nameIsFixed": false,
+  "name": "modules/galleries/episode-sm_2",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

@@ -16,7 +16,7 @@
     "height": 46,
     "width": 279,
     "x": 24,
-    "y": 447
+    "y": 444
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,19 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 45,
-  "masterInfluenceEdgeMinXPadding": 30,
-  "masterInfluenceEdgeMinYPadding": 15,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 22,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "buttons/01/normal",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "9E87D1DA-F191-4DEC-89C4-96675066C708",
-      "overrideName": "F1181091-124C-4800-BBA9-B23E47D39FAA_symbolID",
-      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "63FE7D29-880D-4F63-AF06-44F9623998B5",
@@ -47,9 +41,6 @@
   "overrides": {
     "DD5102F9-7F70-4E06-BADB-D1D58283ADBF": {
       "symbolID": "48E3F329-59D0-4B4F-ADBB-FF4F7F00CCFC"
-    },
-    "F1181091-124C-4800-BBA9-B23E47D39FAA": {
-      "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
     }
   },
   "resizingConstraint": 63,

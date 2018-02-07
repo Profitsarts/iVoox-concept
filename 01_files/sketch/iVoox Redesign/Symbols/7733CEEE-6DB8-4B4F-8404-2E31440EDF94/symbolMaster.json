@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 25480,
+  "changeIdentifier": 26244,
   "do_objectID": "7733CEEE-6DB8-4B4F-8404-2E31440EDF94",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
+    "height": 120,
     "width": 750,
     "x": 0,
     "y": 2643
@@ -45,20 +45,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "43FABD3A-74D5-46A4-8929-54BCF0CEC7F1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "31F2B357-1C75-4384-9274-E6E246A12051"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D7F21A86-F832-449E-9B74-62F79749B8F0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "31728B78-3160-4258-9C42-357B9113F15C"
+      "class": "group",
+      "id": "2E8E3BF6-79A6-41F8-B0FA-A4540CAA6A9A"
     }
   ],
   "name": "modules/Carousel",

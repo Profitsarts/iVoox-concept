@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 514,
+    "height": 244,
     "width": 327,
     "x": 24,
     "y": 101
@@ -26,8 +26,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "611FA215-CE20-4D33-B51E-A8B28051B8EF"
+      "class": "symbolInstance",
+      "id": "8E8C9D56-7A9D-4731-A712-0593276AE80C"
     }
   ],
   "name": "Episodes",

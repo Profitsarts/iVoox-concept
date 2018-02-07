@@ -16,14 +16,14 @@
     "height": 40,
     "width": 312,
     "x": 8,
-    "y": 44
+    "y": 45
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -31,7 +31,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C37C7753-3071-45C6-8FFC-2F7E77DE0E8D"
+      "id": "B709DCDB-63A5-417E-9B77-F72354A7982A"
     },
     {
       "class": "symbolInstance",

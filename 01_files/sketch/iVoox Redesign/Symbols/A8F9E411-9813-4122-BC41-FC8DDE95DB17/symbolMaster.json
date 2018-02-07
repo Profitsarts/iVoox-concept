@@ -7,11 +7,38 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10704,
+  "changeIdentifier": 19833,
   "do_objectID": "A8F9E411-9813-4122-BC41-FC8DDE95DB17",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,7 +51,7 @@
     "height": 256,
     "width": 327,
     "x": 244,
-    "y": 3131
+    "y": 2963
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,23 +68,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "BA0C2FC1-7052-482A-9799-00AA90E1959C"
     },
     {
-      "class": "shapeGroup",
-      "id": "3C3FCC16-56FE-46B5-85FA-4AEF92F6047D"
-    },
-    {
       "class": "group",
       "id": "C65C8071-6F60-4C0E-9229-C638061A4301"
     },
     {
-      "class": "group",
-      "id": "BB183E0C-4342-41B8-A7C5-343A4DBB5F55"
+      "class": "symbolInstance",
+      "id": "AE9067C9-7FBA-4029-90B4-D4B66CB7401A"
     }
   ],
   "name": "modules/galleries/episode_full",

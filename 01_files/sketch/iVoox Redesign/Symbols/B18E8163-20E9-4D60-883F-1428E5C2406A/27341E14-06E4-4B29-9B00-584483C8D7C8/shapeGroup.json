@@ -28,16 +28,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "096752A7-FCBC-40DC-BBCC-5B240D2EE03F"
+      "class": "rectangle",
+      "id": "B8EA77DB-08AB-4ECA-9215-723FA21206D3"
     },
     {
-      "class": "shapePath",
-      "id": "792C3D61-3116-40C2-8E6D-93936F28E04C"
+      "class": "rectangle",
+      "id": "903B3524-DF2E-4239-A097-E43DD04B504E"
     },
     {
-      "class": "shapePath",
-      "id": "AE9251DA-C808-4CD5-B4E4-F5ED77D757DD"
+      "class": "rectangle",
+      "id": "80EEEFDF-86B7-4977-8036-8908656D3434"
     }
   ],
   "name": "Shape",
@@ -48,6 +48,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {

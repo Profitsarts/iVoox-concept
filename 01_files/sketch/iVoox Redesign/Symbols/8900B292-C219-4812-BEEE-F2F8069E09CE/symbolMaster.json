@@ -7,7 +7,7 @@
     "green": 0.9097510873677517,
     "red": 0.919749149659864
   },
-  "changeIdentifier": 153,
+  "changeIdentifier": 155,
   "do_objectID": "8900B292-C219-4812-BEEE-F2F8069E09CE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",

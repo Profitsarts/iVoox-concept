@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8677,
+  "changeIdentifier": 9934,
   "do_objectID": "DF2B3A44-DB21-432F-BF71-F2C0566F53D4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 112,
     "width": 327,
-    "x": 244,
-    "y": 2964
+    "x": 802,
+    "y": 2963
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,17 +60,17 @@
       "id": "D202F568-ADBE-4D44-8B0F-6495FA8858A4"
     },
     {
-      "class": "symbolInstance",
-      "id": "448BCEEA-D80D-41A5-A546-5B67DB70A901"
+      "class": "group",
+      "id": "9E5C8EEC-DE0B-404A-8753-6A3DB145A220"
     },
     {
-      "class": "symbolInstance",
-      "id": "5D539CE7-D77B-4B72-8E1C-4D86076246F4"
+      "class": "group",
+      "id": "61C0CEAC-E914-4B60-A432-82F1F9975B52"
     }
   ],
   "name": "modules/galleries/episode_prev",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
