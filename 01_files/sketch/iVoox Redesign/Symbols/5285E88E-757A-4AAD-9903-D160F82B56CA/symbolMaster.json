@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3202,
+  "changeIdentifier": 3215,
   "do_objectID": "5285E88E-757A-4AAD-9903-D160F82B56CA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 28,
-    "x": 1638,
-    "y": 1959
+    "x": 2106,
+    "y": 2094
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -72,7 +72,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

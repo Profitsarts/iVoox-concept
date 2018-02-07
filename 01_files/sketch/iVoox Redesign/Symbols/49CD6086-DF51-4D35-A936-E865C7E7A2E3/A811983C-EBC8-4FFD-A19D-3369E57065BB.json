@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 52,
+    "width": 116,
     "x": 27,
     "y": 11
   },
@@ -25,16 +25,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "UI/texts/top bar/option",
   "nameIsFixed": false,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 41,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

@@ -36,8 +36,8 @@
       "id": "CBD269F1-9977-4B83-8A9F-32175ACBBAF2"
     }
   ],
-  "name": "Shape",
-  "nameIsFixed": false,
+  "name": "tag",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 45,

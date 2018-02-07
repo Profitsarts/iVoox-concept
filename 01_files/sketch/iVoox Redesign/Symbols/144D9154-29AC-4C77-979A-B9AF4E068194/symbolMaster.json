@@ -7,7 +7,7 @@
     "green": 0.8958333333333334,
     "red": 0.8958333333333334
   },
-  "changeIdentifier": 24684,
+  "changeIdentifier": 28335,
   "do_objectID": "144D9154-29AC-4C77-979A-B9AF4E068194",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 500,
+    "height": 493,
     "width": 327,
-    "x": 1609,
-    "y": 2829
+    "x": 1774,
+    "y": 2964
   },
   "grid": {
     "_class": "simpleGrid",
@@ -51,8 +51,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "E593125E-2ED6-4F08-9A13-BE36814E808C"
+      "class": "symbolInstance",
+      "id": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6"
     },
     {
       "class": "symbolInstance",
@@ -101,7 +101,7 @@
   "symbolID": "DC9358ED-91B0-446B-A05F-A17527E93789",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

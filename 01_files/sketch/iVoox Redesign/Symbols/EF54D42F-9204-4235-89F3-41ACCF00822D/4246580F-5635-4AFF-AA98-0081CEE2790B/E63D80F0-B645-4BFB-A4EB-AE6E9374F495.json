@@ -62,7 +62,7 @@
         "curveTo": "{1, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 1}"
+        "point": "{1, 1.0000000000000007}"
       },
       {
         "_class": "curvePoint",
@@ -72,7 +72,7 @@
         "curveTo": "{0, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0, 1}"
+        "point": "{0, 1.0000000000000007}"
       }
     ]
   },

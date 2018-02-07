@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 500,
+    "height": 493,
     "width": 327,
     "x": 0,
     "y": 0
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 11,
-  "masterInfluenceEdgeMaxYPadding": 18,
-  "masterInfluenceEdgeMinXPadding": 30,
-  "masterInfluenceEdgeMinYPadding": 15,
+  "masterInfluenceEdgeMaxXPadding": 10,
+  "masterInfluenceEdgeMaxYPadding": 45,
+  "masterInfluenceEdgeMinXPadding": 33,
+  "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/special_full",
   "nameIsFixed": false,
   "overrideValues": [
@@ -57,12 +57,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "93ADEADE-0E31-4F19-8A72-5DAD55136C06",
-      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/74395127-6E7C-4C0B-B510-1BF16F994F14/5C652399-3064-4F3C-B1A2-8ECEAB00D5A0_symbolID",
-      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "92E71E46-6437-4AB3-985E-E234AF287AF2",
       "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/AC3AC7DD-C3CC-4440-B14A-D6CEDA4E61C2_stringValue",
       "value": "DESTINO ARRAKIS"
@@ -72,6 +66,54 @@
       "do_objectID": "FE92E771-DB08-42A2-8490-2A6DC8C72E60",
       "overrideName": "5F1EF2F9-AEC2-42D8-8492-06540808855F/D81AFBD6-7679-4227-9739-E85B13794B1B_symbolID",
       "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "680A47F0-9D83-4D3D-A075-0295C2BB507A",
+      "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/F1181091-124C-4800-BBA9-B23E47D39FAA_symbolID",
+      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD16A157-4AA3-49B8-8D6E-7EA6A86CE75B",
+      "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/DD5102F9-7F70-4E06-BADB-D1D58283ADBF/DF2CEAE4-D56A-4878-9E40-30781CBA2A0A_stringValue",
+      "value": "VER PODCASTS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5AA5B80-4ABF-48F3-AF62-81DDB3C2642E",
+      "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/DD5102F9-7F70-4E06-BADB-D1D58283ADBF/827542E6-8AB2-4C45-B8D4-BC84C6CC6760_stringValue",
+      "value": "VER PODCASTS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5EE4CCE-125E-4F1A-B036-E9CD09500163",
+      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/74395127-6E7C-4C0B-B510-1BF16F994F14_symbolID",
+      "value": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1082ACC-AA61-4037-99EE-42019C34CE18",
+      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/74395127-6E7C-4C0B-B510-1BF16F994F14/6542396E-661B-4C51-A6A9-6E3179FC830D_symbolID",
+      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5691A040-3761-48B1-9572-866739EDBA18",
+      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/64A2DFFD-6288-4BD6-90CF-6ABBD45B5872_stringValue",
+      "value": "DESTINO ARRAKIS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C31457A9-49D2-4469-8DB4-5815FFD57503",
+      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/350B7720-214F-49D1-88EC-FFE4727CB8D8_symbolID",
+      "value": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A2F503E-E5B0-4AFB-BEBB-1A7298040530",
+      "overrideName": "B57CA336-A5A7-4AB8-85FD-A17195291F51/350B7720-214F-49D1-88EC-FFE4727CB8D8/6542396E-661B-4C51-A6A9-6E3179FC830D_symbolID",
+      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
     }
   ],
   "overrides": {
@@ -91,15 +133,32 @@
       }
     },
     "B57CA336-A5A7-4AB8-85FD-A17195291F51": {
+      "350B7720-214F-49D1-88EC-FFE4727CB8D8": {
+        "6542396E-661B-4C51-A6A9-6E3179FC830D": {
+          "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
+        },
+        "symbolID": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+      },
+      "64A2DFFD-6288-4BD6-90CF-6ABBD45B5872": "DESTINO ARRAKIS",
       "74395127-6E7C-4C0B-B510-1BF16F994F14": {
         "277E6C81-F079-4345-96E6-B92E139CB107": {
           "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
         },
-        "5C652399-3064-4F3C-B1A2-8ECEAB00D5A0": {
+        "6542396E-661B-4C51-A6A9-6E3179FC830D": {
           "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
-        }
+        },
+        "symbolID": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
       },
       "AC3AC7DD-C3CC-4440-B14A-D6CEDA4E61C2": "DESTINO ARRAKIS"
+    },
+    "EE47F51F-5A06-4832-AF62-7C64CFAB34B6": {
+      "DD5102F9-7F70-4E06-BADB-D1D58283ADBF": {
+        "827542E6-8AB2-4C45-B8D4-BC84C6CC6760": "VER PODCASTS",
+        "DF2CEAE4-D56A-4878-9E40-30781CBA2A0A": "VER PODCASTS"
+      },
+      "F1181091-124C-4800-BBA9-B23E47D39FAA": {
+        "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
+      }
     }
   },
   "resizingConstraint": 45,

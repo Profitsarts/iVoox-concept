@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 221,
+    "width": 219,
     "x": 7,
-    "y": 8.555555555555657
+    "y": 9
   },
   "glyphBounds": "{{0, 5}, {32, 14}}",
   "heightIsClipped": false,

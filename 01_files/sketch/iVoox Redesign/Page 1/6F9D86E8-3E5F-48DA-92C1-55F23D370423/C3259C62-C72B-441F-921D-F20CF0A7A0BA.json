@@ -26,7 +26,7 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "bars/top_bar",
   "nameIsFixed": false,
@@ -46,7 +46,7 @@
       "_class": "overrideValue",
       "do_objectID": "EB8DECFD-9942-48D0-B493-2152479D1E7D",
       "overrideName": "7C427BDF-6C56-4C73-95FD-36C72CF5FCA4/A811983C-EBC8-4FFD-A19D-3369E57065BB/B810CA12-4E96-47C6-A0BE-90978DB815BB_stringValue",
-      "value": "Volver"
+      "value": " "
     }
   ],
   "overrides": {
@@ -55,7 +55,7 @@
     },
     "7C427BDF-6C56-4C73-95FD-36C72CF5FCA4": {
       "A811983C-EBC8-4FFD-A19D-3369E57065BB": {
-        "B810CA12-4E96-47C6-A0BE-90978DB815BB": "Volver"
+        "B810CA12-4E96-47C6-A0BE-90978DB815BB": " "
       }
     },
     "C1265089-AEA8-4800-A445-9B9A2AB4E460": {

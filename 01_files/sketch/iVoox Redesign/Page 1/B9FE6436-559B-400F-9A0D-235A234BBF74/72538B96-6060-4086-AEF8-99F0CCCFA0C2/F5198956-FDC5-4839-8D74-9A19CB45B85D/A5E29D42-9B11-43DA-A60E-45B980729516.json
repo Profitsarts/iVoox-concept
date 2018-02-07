@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 212,
+    "height": 111,
     "width": 327,
     "x": 0,
-    "y": 261
+    "y": 268
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 25,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 45,
   "masterInfluenceEdgeMinXPadding": 30,
   "masterInfluenceEdgeMinYPadding": 15,
   "name": "modules/galleries/episode",
@@ -48,11 +48,20 @@
       "do_objectID": "DF9328B6-F36F-42CF-B216-63CE43B87EB4",
       "overrideName": "30A2E090-3F94-4204-A681-0C5852F9FAB2/5B8F5088-C83C-469B-888C-817F386DEFDB_stringValue",
       "value": "00:00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A53B8433-6907-494B-A17B-C66240439B58",
+      "overrideName": "30A2E090-3F94-4204-A681-0C5852F9FAB2/7E38A32E-DE38-4570-84EE-33A1A6856C12_symbolID",
+      "value": "08AAA6CD-17FA-4D61-9363-1BECB4D3872D"
     }
   ],
   "overrides": {
     "30A2E090-3F94-4204-A681-0C5852F9FAB2": {
       "5B8F5088-C83C-469B-888C-817F386DEFDB": "00:00",
+      "7E38A32E-DE38-4570-84EE-33A1A6856C12": {
+        "symbolID": "08AAA6CD-17FA-4D61-9363-1BECB4D3872D"
+      },
       "9C1F568A-2353-4F08-B2B8-8858EA199EA3": "34444",
       "DA1545C5-AA5F-4284-AAB6-D38F9B86649D": "1234"
     }

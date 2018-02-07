@@ -36,8 +36,8 @@
       "id": "580FE9B4-EB29-4D22-A4CD-C14EB6AFD46F"
     }
   ],
-  "name": "Fill 1",
-  "nameIsFixed": false,
+  "name": "speech",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

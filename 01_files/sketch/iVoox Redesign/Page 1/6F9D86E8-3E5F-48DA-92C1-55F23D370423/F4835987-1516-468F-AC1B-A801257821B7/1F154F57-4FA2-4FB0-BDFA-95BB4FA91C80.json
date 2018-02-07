@@ -26,8 +26,8 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 70,
   "masterInfluenceEdgeMaxYPadding": 140,
-  "masterInfluenceEdgeMinXPadding": 54,
-  "masterInfluenceEdgeMinYPadding": 15,
+  "masterInfluenceEdgeMinXPadding": 53,
+  "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/special_mid",
   "nameIsFixed": true,
   "overrideValues": [
@@ -56,11 +56,6 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "CC36D1EE-AFA9-4713-B2AA-9BC786416185/5C652399-3064-4F3C-B1A2-8ECEAB00D5A0_symbolID",
-      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "CC36D1EE-AFA9-4713-B2AA-9BC786416185/277E6C81-F079-4345-96E6-B92E139CB107_symbolID",
       "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
     },
@@ -68,13 +63,25 @@
       "_class": "overrideValue",
       "do_objectID": "AFEF9808-4555-48A6-9273-7FCB0CF54BA5",
       "overrideName": "EA656DFD-B783-4210-A9E3-3DE689B9DABA/54B62DB9-CCA8-4861-83BF-249EF066BA0C_stringValue",
-      "value": "345"
+      "value": "8"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "0DC1DD54-5C4F-4EFA-97FE-5F2B2B78DDB9",
       "overrideName": "E3762261-61E0-4960-AAAC-CE406653E27B_stringValue",
       "value": "DEVELOPER TEA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3B7F2EA-4C0C-417D-A379-64F001804A61",
+      "overrideName": "CC36D1EE-AFA9-4713-B2AA-9BC786416185_symbolID",
+      "value": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E07B7DDE-E2A2-4D48-B733-5D82EA7AB412",
+      "overrideName": "CC36D1EE-AFA9-4713-B2AA-9BC786416185/6542396E-661B-4C51-A6A9-6E3179FC830D_symbolID",
+      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
     }
   ],
   "overrides": {
@@ -92,13 +99,14 @@
       "277E6C81-F079-4345-96E6-B92E139CB107": {
         "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
       },
-      "5C652399-3064-4F3C-B1A2-8ECEAB00D5A0": {
+      "6542396E-661B-4C51-A6A9-6E3179FC830D": {
         "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
-      }
+      },
+      "symbolID": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
     },
     "E3762261-61E0-4960-AAAC-CE406653E27B": "DEVELOPER TEA",
     "EA656DFD-B783-4210-A9E3-3DE689B9DABA": {
-      "54B62DB9-CCA8-4861-83BF-249EF066BA0C": "345",
+      "54B62DB9-CCA8-4861-83BF-249EF066BA0C": "8",
       "D81AFBD6-7679-4227-9739-E85B13794B1B": {
         "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
       }

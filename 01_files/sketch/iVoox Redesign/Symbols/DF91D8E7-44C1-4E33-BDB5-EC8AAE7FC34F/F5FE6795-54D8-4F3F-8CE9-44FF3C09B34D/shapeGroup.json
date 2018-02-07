@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -64,8 +64,8 @@
       "id": "A1E1BA3D-5F92-4BB1-8F8F-A256E99FF8D3"
     }
   ],
-  "name": "Fill 12",
-  "nameIsFixed": false,
+  "name": "subscription",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

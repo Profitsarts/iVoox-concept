@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3449,
+  "changeIdentifier": 3573,
   "do_objectID": "54641A1F-4C3F-4D60-BFF2-C56ECBDA3CDE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 28,
-    "x": 1092,
-    "y": 1959
+    "x": 1560,
+    "y": 2094
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,23 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "07000B5D-5C28-431F-B111-6C4F8EA6A47D"
+      "id": "F361511C-7A71-4639-8085-14DD1DED92CC"
     },
     {
       "class": "symbolInstance",
       "id": "5C652399-3064-4F3C-B1A2-8ECEAB00D5A0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "283A0F15-70D7-4FD8-99B2-DD2F9A395DDC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "277E6C81-F079-4345-96E6-B92E139CB107"
     }
   ],
   "name": "Icons/plus",

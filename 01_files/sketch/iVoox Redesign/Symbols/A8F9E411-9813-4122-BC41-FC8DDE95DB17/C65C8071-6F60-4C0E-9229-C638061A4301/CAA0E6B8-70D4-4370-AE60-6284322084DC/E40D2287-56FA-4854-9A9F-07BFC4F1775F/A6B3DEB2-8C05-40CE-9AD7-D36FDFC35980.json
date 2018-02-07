@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A6B3DEB2-8C05-40CE-9AD7-D36FDFC35980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 185,
+    "x": 0,
+    "y": 123
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "modules/galleries/podcast-episodes-data",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4AB3D674-39EF-4362-ACE2-973991E7A113_symbolID",
+      "value": "41D4D6A1-F3BB-4D4A-AF50-86B9592FF56C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52899DBF-9B36-41FB-8850-40246F5F3822",
+      "overrideName": "D7F6B7F4-2F54-4651-AD71-10E997953F31_symbolID",
+      "value": "08AAA6CD-17FA-4D61-9363-1BECB4D3872D"
+    }
+  ],
+  "overrides": {
+    "4AB3D674-39EF-4362-ACE2-973991E7A113": {
+      "symbolID": "41D4D6A1-F3BB-4D4A-AF50-86B9592FF56C"
+    },
+    "D7F6B7F4-2F54-4651-AD71-10E997953F31": {
+      "symbolID": "08AAA6CD-17FA-4D61-9363-1BECB4D3872D"
+    }
+  },
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3C7F094F-0969-43F9-934A-B1319F255D95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

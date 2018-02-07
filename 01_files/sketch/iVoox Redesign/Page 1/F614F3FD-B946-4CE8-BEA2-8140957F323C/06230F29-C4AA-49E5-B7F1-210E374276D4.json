@@ -24,15 +24,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "bars/footer",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2012C79E-0DE0-4A21-837F-062F7D00F9DF",
+      "overrideName": "B75597B8-75F5-4B3E-8293-FCB21BEAA168/640A97E8-2852-47A3-9B65-381A700778EE_symbolID",
+      "value": "D254642C-365F-4791-B5A5-10CDF38C492B"
+    }
   ],
   "overrides": {
+    "B75597B8-75F5-4B3E-8293-FCB21BEAA168": {
+      "640A97E8-2852-47A3-9B65-381A700778EE": {
+        "symbolID": "D254642C-365F-4791-B5A5-10CDF38C492B"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

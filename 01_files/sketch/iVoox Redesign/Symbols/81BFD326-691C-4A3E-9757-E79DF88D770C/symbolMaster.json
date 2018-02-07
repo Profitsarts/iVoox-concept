@@ -7,7 +7,7 @@
     "green": 0.8958333333333334,
     "red": 0.8958333333333334
   },
-  "changeIdentifier": 20021,
+  "changeIdentifier": 21038,
   "do_objectID": "81BFD326-691C-4A3E-9757-E79DF88D770C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 200,
     "width": 327,
-    "x": 3120,
-    "y": 2829
+    "x": 3662,
+    "y": 2964
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,23 +56,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CC36D1EE-AFA9-4713-B2AA-9BC786416185"
-    },
-    {
-      "class": "symbolInstance",
       "id": "EA656DFD-B783-4210-A9E3-3DE689B9DABA"
     },
     {
-      "class": "symbolInstance",
-      "id": "E30900F9-0852-4E4C-8ACB-92C79ED5323E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "513FC48A-C817-4C50-B6ED-7D71C486331B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2AD37844-252C-4DDE-B22A-2FF676A112B2"
+      "class": "group",
+      "id": "49E85F79-F357-4AE6-A869-16728B28D512"
     }
   ],
   "name": "modules/galleries/special_mid",
@@ -109,7 +97,7 @@
   "symbolID": "6FC15DD5-1A40-44F5-96B3-08924CC074C5",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

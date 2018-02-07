@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 170,
+    "height": 16,
+    "width": 178,
     "x": 0,
-    "y": -1.13686837721616e-13
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,28 +26,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "9C1F568A-2353-4F08-B2B8-8858EA199EA3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C53C2B76-FF23-4994-81DF-EC6F6DD95249"
-    },
-    {
-      "class": "text",
-      "id": "DA1545C5-AA5F-4284-AAB6-D38F9B86649D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4AB3D674-39EF-4362-ACE2-973991E7A113"
-    },
-    {
-      "class": "text",
-      "id": "5B8F5088-C83C-469B-888C-817F386DEFDB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7E38A32E-DE38-4570-84EE-33A1A6856C12"
+      "class": "group",
+      "id": "4C224E65-47B5-4650-A512-D657C9ACCC0B"
     }
   ],
   "name": "modules/galleries/podcast-episodes-data",

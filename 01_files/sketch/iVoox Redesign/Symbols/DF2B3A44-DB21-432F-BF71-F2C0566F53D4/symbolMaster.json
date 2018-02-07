@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3262,
+  "changeIdentifier": 8677,
   "do_objectID": "DF2B3A44-DB21-432F-BF71-F2C0566F53D4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 212,
+    "height": 112,
     "width": 327,
-    "x": 94,
-    "y": 2829
+    "x": 244,
+    "y": 2964
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,8 +44,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F13503E0-F516-4411-8CF1-E1AF42C50BE9"
+      "class": "symbolInstance",
+      "id": "39F4B5E1-E5D3-4504-A57D-DA4384AEF9B8"
     },
     {
       "class": "shapeGroup",
@@ -62,6 +62,10 @@
     {
       "class": "symbolInstance",
       "id": "448BCEEA-D80D-41A5-A546-5B67DB70A901"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D539CE7-D77B-4B72-8E1C-4D86076246F4"
     }
   ],
   "name": "modules/galleries/episode_prev",
@@ -87,6 +91,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      56
     ]
   }
 }

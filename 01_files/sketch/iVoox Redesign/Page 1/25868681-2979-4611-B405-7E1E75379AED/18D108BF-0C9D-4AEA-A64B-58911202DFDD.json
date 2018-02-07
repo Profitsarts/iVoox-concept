@@ -26,7 +26,7 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "bars/top_bar",
   "nameIsFixed": false,
@@ -40,21 +40,11 @@
       "_class": "overrideValue",
       "overrideName": "1DEE133E-7706-4703-B606-F238875D16FB/A65843F1-D860-487C-95EA-7AD2978ADE61_stringValue",
       "value": "iVoox"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "7C427BDF-6C56-4C73-95FD-36C72CF5FCA4/A811983C-EBC8-4FFD-A19D-3369E57065BB/B810CA12-4E96-47C6-A0BE-90978DB815BB_stringValue",
-      "value": "Volver"
     }
   ],
   "overrides": {
     "1DEE133E-7706-4703-B606-F238875D16FB": {
       "A65843F1-D860-487C-95EA-7AD2978ADE61": "iVoox"
-    },
-    "7C427BDF-6C56-4C73-95FD-36C72CF5FCA4": {
-      "A811983C-EBC8-4FFD-A19D-3369E57065BB": {
-        "B810CA12-4E96-47C6-A0BE-90978DB815BB": "Volver"
-      }
     },
     "C1265089-AEA8-4800-A445-9B9A2AB4E460": {
       "symbolID": "4DF20EB4-22AE-4A41-A609-12BEF6A8AECF"

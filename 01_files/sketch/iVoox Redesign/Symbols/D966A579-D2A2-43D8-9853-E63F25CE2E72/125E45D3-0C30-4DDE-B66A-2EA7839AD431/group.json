@@ -34,24 +34,8 @@
       "id": "AC3AC7DD-C3CC-4440-B14A-D6CEDA4E61C2"
     },
     {
-      "class": "symbolInstance",
-      "id": "74395127-6E7C-4C0B-B510-1BF16F994F14"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C35DCB31-F817-4269-9B9A-24E7E895FA87"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4992D02C-3440-465C-8E43-84AA6CBB303C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "746AD704-2DAF-4BF8-AF30-F152761071D1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "71758E71-126F-4E4D-A383-C1D71FD28DDB"
+      "class": "group",
+      "id": "9361CCA2-83CC-4DED-A8C1-3B634A52E855"
     }
   ],
   "name": "modules/galleries/special_full_bar",

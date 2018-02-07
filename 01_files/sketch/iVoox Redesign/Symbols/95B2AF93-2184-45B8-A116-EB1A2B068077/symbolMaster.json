@@ -7,7 +7,7 @@
     "green": 0.9098039215686274,
     "red": 0.9176470588235294
   },
-  "changeIdentifier": 399,
+  "changeIdentifier": 424,
   "do_objectID": "95B2AF93-2184-45B8-A116-EB1A2B068077",
   "exportOptions": {
     "_class": "exportOptions",
@@ -86,7 +86,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
