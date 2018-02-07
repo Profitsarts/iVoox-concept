@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 11,
   "masterInfluenceEdgeMaxYPadding": 22,
   "masterInfluenceEdgeMinXPadding": 11,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "buttons/01/normal",
   "nameIsFixed": false,
   "overrideValues": [
@@ -36,11 +36,20 @@
       "do_objectID": "63FE7D29-880D-4F63-AF06-44F9623998B5",
       "overrideName": "DD5102F9-7F70-4E06-BADB-D1D58283ADBF_symbolID",
       "value": "48E3F329-59D0-4B4F-ADBB-FF4F7F00CCFC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B85E3F26-F9F0-4380-A211-E32E87B7F3B8",
+      "overrideName": "F1181091-124C-4800-BBA9-B23E47D39FAA_symbolID",
+      "value": "705941D0-004D-46AD-AEDF-57657CE10972"
     }
   ],
   "overrides": {
     "DD5102F9-7F70-4E06-BADB-D1D58283ADBF": {
       "symbolID": "48E3F329-59D0-4B4F-ADBB-FF4F7F00CCFC"
+    },
+    "F1181091-124C-4800-BBA9-B23E47D39FAA": {
+      "symbolID": "705941D0-004D-46AD-AEDF-57657CE10972"
     }
   },
   "resizingConstraint": 63,

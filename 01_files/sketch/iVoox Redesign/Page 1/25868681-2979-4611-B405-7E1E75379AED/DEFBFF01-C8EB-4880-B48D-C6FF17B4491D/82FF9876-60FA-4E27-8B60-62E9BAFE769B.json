@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 10,
-  "masterInfluenceEdgeMaxYPadding": 22,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 6,
   "masterInfluenceEdgeMinXPadding": 33,
   "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/special_full",
@@ -63,15 +63,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FE92E771-DB08-42A2-8490-2A6DC8C72E60",
-      "overrideName": "5F1EF2F9-AEC2-42D8-8492-06540808855F/D81AFBD6-7679-4227-9739-E85B13794B1B_symbolID",
-      "value": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "680A47F0-9D83-4D3D-A075-0295C2BB507A",
       "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/F1181091-124C-4800-BBA9-B23E47D39FAA_symbolID",
-      "value": "4A97862F-A643-41D6-8676-66A35CBBC89C"
+      "value": "705941D0-004D-46AD-AEDF-57657CE10972"
     },
     {
       "_class": "overrideValue",
@@ -127,11 +121,6 @@
       "_ref": "images/1c3df8c39c8d04928e29081e9fe32681dfe73880",
       "_ref_class": "MSImageData"
     },
-    "5F1EF2F9-AEC2-42D8-8492-06540808855F": {
-      "D81AFBD6-7679-4227-9739-E85B13794B1B": {
-        "symbolID": "A5003836-EFD8-4419-A821-5C653D8F3ACA"
-      }
-    },
     "B57CA336-A5A7-4AB8-85FD-A17195291F51": {
       "350B7720-214F-49D1-88EC-FFE4727CB8D8": {
         "6542396E-661B-4C51-A6A9-6E3179FC830D": {
@@ -157,7 +146,7 @@
         "DF2CEAE4-D56A-4878-9E40-30781CBA2A0A": "VER PODCASTS"
       },
       "F1181091-124C-4800-BBA9-B23E47D39FAA": {
-        "symbolID": "4A97862F-A643-41D6-8676-66A35CBBC89C"
+        "symbolID": "705941D0-004D-46AD-AEDF-57657CE10972"
       }
     }
   },

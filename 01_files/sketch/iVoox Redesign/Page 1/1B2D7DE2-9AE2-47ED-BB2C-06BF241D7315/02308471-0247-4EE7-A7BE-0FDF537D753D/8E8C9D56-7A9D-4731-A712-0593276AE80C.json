@@ -25,14 +25,25 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 33,
-  "masterInfluenceEdgeMaxYPadding": 22,
+  "masterInfluenceEdgeMaxYPadding": 49,
   "masterInfluenceEdgeMinXPadding": 33,
   "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/podcast-front_sm",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4E2B7E3-8FFD-4551-956B-925CD8E141BA",
+      "overrideName": "0DBEE6D0-F2EA-4B3A-9CAF-1A569DF2858A/120F63FC-5BC0-4894-932E-81D9EEA3FD4F_symbolID",
+      "value": "D8F6CE52-3B95-454A-95EC-267630B62360"
+    }
   ],
   "overrides": {
+    "0DBEE6D0-F2EA-4B3A-9CAF-1A569DF2858A": {
+      "120F63FC-5BC0-4894-932E-81D9EEA3FD4F": {
+        "symbolID": "D8F6CE52-3B95-454A-95EC-267630B62360"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

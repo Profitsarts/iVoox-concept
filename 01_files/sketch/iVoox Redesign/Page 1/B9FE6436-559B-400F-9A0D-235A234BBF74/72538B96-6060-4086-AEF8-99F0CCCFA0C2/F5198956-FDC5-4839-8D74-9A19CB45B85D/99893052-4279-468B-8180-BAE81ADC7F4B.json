@@ -16,7 +16,7 @@
     "height": 112,
     "width": 327,
     "x": 0,
-    "y": 403
+    "y": 387
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 45,
-  "masterInfluenceEdgeMinXPadding": 30,
-  "masterInfluenceEdgeMinYPadding": 15,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules/galleries/episode-sm_2",
   "nameIsFixed": true,
   "overrideValues": [

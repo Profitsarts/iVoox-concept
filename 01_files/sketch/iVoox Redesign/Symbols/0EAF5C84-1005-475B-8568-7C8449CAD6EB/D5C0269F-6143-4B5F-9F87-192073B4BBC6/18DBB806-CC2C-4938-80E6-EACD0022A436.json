@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "14C68F8E-5285-4937-A9A5-712257C79327",
+  "do_objectID": "18DBB806-CC2C-4938-80E6-EACD0022A436",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 199.9999999999999,
+    "height": 200,
     "width": 200,
     "x": 0,
     "y": 0
@@ -32,7 +32,7 @@
   "path": {
     "_class": "path",
     "isClosed": true,
-    "pointRadiusBehaviour": 0,
+    "pointRadiusBehaviour": 1,
     "points": [
       {
         "_class": "curvePoint",

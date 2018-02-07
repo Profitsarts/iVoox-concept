@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 335,
+  "changeIdentifier": 696,
   "do_objectID": "0EAF5C84-1005-475B-8568-7C8449CAD6EB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,11 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "6C637539-63C3-483E-9566-3B0CE157D6A5"
+      "id": "D5C0269F-6143-4B5F-9F87-192073B4BBC6"
     }
   ],
   "name": "color/gradient_02",

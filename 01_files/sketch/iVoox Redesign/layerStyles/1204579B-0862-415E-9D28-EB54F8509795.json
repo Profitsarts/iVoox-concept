@@ -1,46 +1,8 @@
 {
-  "_class": "group",
-  "do_objectID": "6FA3D4C6-6C29-46FA-863D-6A76257EE396",
-  "exportOptions": {
-    "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
-    "layerOptions": 0,
-    "shouldTrim": false
-  },
-  "frame": {
-    "_class": "rect",
-    "constrainProportions": false,
-    "height": 24,
-    "width": 37,
-    "x": 22,
-    "y": 12
-  },
-  "hasClickThrough": false,
-  "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
-  "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "0DB89D34-4B0D-4F3D-941A-FAB32AF7939E"
-    },
-    {
-      "class": "text",
-      "id": "1FE35E87-7105-4C10-8B21-BB799A212674"
-    }
-  ],
-  "name": "Number",
-  "nameIsFixed": true,
-  "resizingConstraint": 45,
-  "resizingType": 3,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
+  "_class": "sharedStyle",
+  "do_objectID": "1204579B-0862-415E-9D28-EB54F8509795",
+  "name": "Notification bg-color",
+  "value": {
     "_class": "style",
     "borders": [
       {
@@ -58,7 +20,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "27DCFC63-2741-444F-B303-A6137B060050",
     "endDecorationType": 0,
     "fills": [
       {
@@ -113,11 +74,5 @@
     "miterLimit": 10,
     "sharedObjectID": "1204579B-0862-415E-9D28-EB54F8509795",
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }
