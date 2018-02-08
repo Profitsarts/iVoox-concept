@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 19932,
+  "changeIdentifier": 33612,
   "do_objectID": "A8F9E411-9813-4122-BC41-FC8DDE95DB17",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,7 +51,7 @@
     "height": 256,
     "width": 327,
     "x": 244,
-    "y": 2963
+    "y": 2507
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +59,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      311
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -68,7 +69,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -77,6 +78,10 @@
     {
       "class": "group",
       "id": "C65C8071-6F60-4C0E-9229-C638061A4301"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D72830BB-2F52-4708-831A-58BFD23B6DD9"
     },
     {
       "class": "symbolInstance",
@@ -104,9 +109,9 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": 170,
     "guides": [
-      56
+      71
     ]
   }
 }

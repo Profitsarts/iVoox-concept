@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 167,
-    "width": 239,
-    "x": 0,
-    "y": 0
+    "height": 121,
+    "width": 242,
+    "x": 2,
+    "y": 120
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -32,10 +32,6 @@
     {
       "class": "group",
       "id": "E40D2287-56FA-4854-9A9F-07BFC4F1775F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C705C8FE-329B-488D-88B7-F2E93E5E98FF"
     }
   ],
   "name": "content+padding",

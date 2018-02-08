@@ -31,8 +31,23 @@
   "name": "modules/galleries/podcast-episodes-prev-img",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29163A07-E7B7-4B56-A424-DF20FC7A669B",
+      "overrideName": "E2689A87-623F-4E33-B6A0-0225DD08FEBA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7e52196993edb9810d70264ec74470355d445fe2",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "overrides": {
+    "E2689A87-623F-4E33-B6A0-0225DD08FEBA": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/7e52196993edb9810d70264ec74470355d445fe2",
+      "_ref_class": "MSImageData"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

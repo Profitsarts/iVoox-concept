@@ -7,7 +7,7 @@
     "green": 0.6143176020408163,
     "red": 0.6143176020408163
   },
-  "changeIdentifier": 903,
+  "changeIdentifier": 921,
   "do_objectID": "8FCDBDD5-6603-42C9-8A2E-F840506B04B8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +44,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E6E7D24F-3CF7-43FA-B4CB-2208DB27BE7F"
+      "class": "group",
+      "id": "F0523816-D70C-4049-9DA2-AA5A35528B23"
     }
   ],
   "name": "Bars/Navigation Bar/_/Light/Right Combinations/1 Action",

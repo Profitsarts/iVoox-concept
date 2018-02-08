@@ -41,8 +41,7 @@
     "base": 0,
     "guides": [
       24,
-      351,
-      284
+      351
     ]
   },
   "includeBackgroundColorInExport": true,

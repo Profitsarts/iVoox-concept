@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 224,
     "width": 32,
-    "x": 8,
-    "y": 28
+    "x": 16,
+    "y": 16
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,29 +60,29 @@
         "align": 0,
         "constraints": {
           "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_39be798f-7577-4642-99a1-e4bb0206a216",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
           "centerVertically": {
             "constant": 0,
             "enabled": 1,
-            "modelID": "constraint_c70a90cc-805d-4cae-a219-618cb186fd2f",
+            "modelID": "constraint_56ef30a7-5bd7-4324-b30b-7f5ee2498e9f",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 0
           },
-          "left": {
-            "constant": 8,
-            "enabled": 1,
-            "modelID": "constraint_4d8e349e-799d-454e-86f2-7c7b82385c93",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_945f1e38-9abf-4d02-8228-64c033a25796",
+          "modelID": "viewConstraints_64a86a81-8d48-4217-a43b-90b300d7fc73",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
         },
         "isCollapsing": 1,
-        "spacing": 24,
+        "spacing": 32,
         "type": 0
       },
       "kViewTypeKey": "ADModelStackView"

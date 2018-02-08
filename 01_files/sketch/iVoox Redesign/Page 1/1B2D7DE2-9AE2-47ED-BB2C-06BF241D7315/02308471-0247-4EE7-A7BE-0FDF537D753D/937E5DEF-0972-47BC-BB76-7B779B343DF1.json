@@ -31,8 +31,22 @@
   "name": "modules/galleries/episode_full",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F7D5CCD-06FB-492D-9BD2-6222ACEE3FE2",
+      "overrideName": "254ABA98-7719-4D98-8518-9A9D91E7508F_stringValue",
+      "value": "Hace 2 días en Tv, Cine y espectáculos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF470FA2-DDEE-4F5D-B1A1-98A9515C692A",
+      "overrideName": "AE390DCD-79E4-44C4-8365-7F04936DD3C1_stringValue",
+      "value": "[DA] FanFiction Cine: Tres carteles a las Afueras, La forma del agua..."
+    }
   ],
   "overrides": {
+    "254ABA98-7719-4D98-8518-9A9D91E7508F": "Hace 2 días en Tv, Cine y espectáculos",
+    "AE390DCD-79E4-44C4-8365-7F04936DD3C1": "[DA] FanFiction Cine: Tres carteles a las Afueras, La forma del agua..."
   },
   "resizingConstraint": 63,
   "resizingType": 0,

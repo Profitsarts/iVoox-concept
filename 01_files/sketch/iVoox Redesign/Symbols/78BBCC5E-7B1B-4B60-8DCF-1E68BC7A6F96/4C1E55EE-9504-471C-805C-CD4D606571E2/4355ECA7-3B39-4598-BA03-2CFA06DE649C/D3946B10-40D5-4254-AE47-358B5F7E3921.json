@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/download Copy 2",
+  "name": "Icons/speech",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -68,15 +68,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 32,
+            "constant": 34,
             "enabled": 1,
-            "modelID": "constraint_eefe1bcb-6c73-4ea5-bec8-3053c5d63682",
+            "modelID": "constraint_3be8516c-0933-49ca-8227-db22cfe52ed6",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 32
+            "multiplier": 34
           },
           "automatic": 1,
-          "modelID": "viewConstraints_f4857e9f-c93e-42d0-9711-409c492dccde",
+          "modelID": "viewConstraints_ac84b8b3-cf1b-4532-8ba4-a1aa393c95ba",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

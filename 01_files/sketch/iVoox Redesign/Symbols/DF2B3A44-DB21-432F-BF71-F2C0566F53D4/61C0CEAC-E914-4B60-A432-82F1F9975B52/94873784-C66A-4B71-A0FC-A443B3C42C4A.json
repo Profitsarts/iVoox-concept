@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 17,
-    "x": 21,
-    "y": 7
+    "width": 16,
+    "x": 17,
+    "y": 4
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -34,7 +34,7 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

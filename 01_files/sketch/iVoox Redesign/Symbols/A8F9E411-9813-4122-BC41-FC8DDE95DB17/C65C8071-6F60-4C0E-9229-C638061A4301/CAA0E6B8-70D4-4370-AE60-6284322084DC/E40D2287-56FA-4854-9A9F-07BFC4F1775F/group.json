@@ -13,33 +13,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 139,
-    "width": 185,
+    "height": 112,
+    "width": 143,
     "x": 0,
-    "y": 14
+    "y": 0
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A6B3DEB2-8C05-40CE-9AD7-D36FDFC35980"
+      "class": "group",
+      "id": "EBECDC82-9C17-4969-824F-E2D5CD92BC4E"
     },
     {
-      "class": "text",
-      "id": "254ABA98-7719-4D98-8518-9A9D91E7508F"
+      "class": "group",
+      "id": "7680A225-FA82-49D9-803F-BE42A4432B77"
     },
     {
-      "class": "text",
-      "id": "AE390DCD-79E4-44C4-8365-7F04936DD3C1"
+      "class": "group",
+      "id": "BB55640E-DFED-404C-81AE-40C9ECF9E91A"
     },
     {
-      "class": "symbolInstance",
-      "id": "D5777244-3047-4B32-9F5B-CA57669CB68C"
+      "class": "group",
+      "id": "5C54EFFD-27BB-4702-B06B-2BBA9F80C138"
+    },
+    {
+      "class": "group",
+      "id": "3D1C12E9-408E-4592-8E09-8AB3BA659951"
     }
   ],
   "name": "content",

@@ -31,8 +31,26 @@
   "name": "modules/galleries/special_full_bar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6C44A84-D99B-4F59-86E6-5ED7B7AF81E4",
+      "overrideName": "350B7720-214F-49D1-88EC-FFE4727CB8D8_symbolID",
+      "value": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C1A66DC-00F1-4303-B7DF-8ED116974B59",
+      "overrideName": "350B7720-214F-49D1-88EC-FFE4727CB8D8/6542396E-661B-4C51-A6A9-6E3179FC830D_symbolID",
+      "value": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
+    }
   ],
   "overrides": {
+    "350B7720-214F-49D1-88EC-FFE4727CB8D8": {
+      "6542396E-661B-4C51-A6A9-6E3179FC830D": {
+        "symbolID": "5E829AF4-BAFF-40F7-A3C7-7C43031B969C"
+      },
+      "symbolID": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

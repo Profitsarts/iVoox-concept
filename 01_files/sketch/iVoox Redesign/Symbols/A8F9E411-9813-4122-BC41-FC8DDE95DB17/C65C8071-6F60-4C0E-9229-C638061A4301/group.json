@@ -13,21 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 167,
-    "width": 239,
-    "x": 85,
-    "y": 0
+    "height": 241,
+    "width": 244,
+    "x": 80,
+    "y": 9
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "CAA0E6B8-70D4-4370-AE60-6284322084DC"
+    },
+    {
+      "class": "group",
+      "id": "3116452E-B41E-4853-8671-27F206FCA23D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5777244-3047-4B32-9F5B-CA57669CB68C"
     }
   ],
   "name": "data",

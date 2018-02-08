@@ -16,7 +16,7 @@
     "height": 32,
     "width": 32,
     "x": 0,
-    "y": 56
+    "y": 64
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Icons/download Copy 3",
+  "name": "Icons/fav",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -68,15 +68,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 32,
+            "constant": 34,
             "enabled": 1,
-            "modelID": "constraint_770d4e09-86de-4ce6-b059-ac9107cfba91",
+            "modelID": "constraint_4503dfb3-1a93-4711-9883-c9e8f7b19007",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 32
+            "multiplier": 34
           },
           "automatic": 1,
-          "modelID": "viewConstraints_590eef77-31d4-4be0-b9d4-aac66265e03c",
+          "modelID": "viewConstraints_40b0aaa8-d71d-43b9-96d3-ffaafe99716d",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
