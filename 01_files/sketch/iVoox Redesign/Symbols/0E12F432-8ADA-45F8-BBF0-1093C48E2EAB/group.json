@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "0E12F432-8ADA-45F8-BBF0-1093C48E2EAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 375,
+    "x": 2,
+    "y": 66
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EDF54ADE-D885-477A-83FB-020EE287A9AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEB0C78A-CD5A-41A2-B714-96EE02A6FBB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1FA1546-5AF5-4424-ADCB-4454397DE968"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7AC3289-5F0A-467C-9E64-5285C1D54EBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F654A97-3808-4C2E-8EAF-D7084725C33C"
+    }
+  ],
+  "name": "Bars/Tab Bar/5 Items",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -87,6 +87,10 @@
     "startDecorationType": 0
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": -1
     }
@@ -95,7 +99,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      102,
+      100,
       135
     ]
   }

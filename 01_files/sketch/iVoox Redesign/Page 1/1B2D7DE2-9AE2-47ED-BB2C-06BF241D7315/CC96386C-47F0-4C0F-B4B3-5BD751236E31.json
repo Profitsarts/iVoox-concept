@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 12,
   "name": "bars/top_bar",
   "nameIsFixed": false,
   "overrideValues": [
@@ -39,7 +39,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "1DEE133E-7706-4703-B606-F238875D16FB/A65843F1-D860-487C-95EA-7AD2978ADE61_stringValue",
-      "value": " "
+      "value": "  Destino Arrakis"
     },
     {
       "_class": "overrideValue",
@@ -55,6 +55,18 @@
       "_class": "overrideValue",
       "overrideName": "166EDCC6-513F-49E7-B0A6-59DE2EB8FA7B_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8F7732A-46B9-4C24-856D-6BF11AAFE720",
+      "overrideName": "E32BA573-CE04-46F8-9329-8ED646251794_symbolID",
+      "value": "7AA419B4-21CA-43B8-BAC8-7DCC49024153"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46EEF5CA-B611-49BD-ABAE-B8783E2DCBE8",
+      "overrideName": "E32BA573-CE04-46F8-9329-8ED646251794/0604C763-6F34-4520-B9C8-3C356EF6164C_symbolID",
+      "value": "B375A40F-18AF-4428-B382-07C1E6DA05F0"
     }
   ],
   "overrides": {
@@ -62,7 +74,7 @@
       "symbolID": ""
     },
     "1DEE133E-7706-4703-B606-F238875D16FB": {
-      "A65843F1-D860-487C-95EA-7AD2978ADE61": " "
+      "A65843F1-D860-487C-95EA-7AD2978ADE61": "  Destino Arrakis"
     },
     "7C427BDF-6C56-4C73-95FD-36C72CF5FCA4": {
       "A811983C-EBC8-4FFD-A19D-3369E57065BB": {
@@ -72,6 +84,12 @@
     },
     "C1265089-AEA8-4800-A445-9B9A2AB4E460": {
       "symbolID": "4DF20EB4-22AE-4A41-A609-12BEF6A8AECF"
+    },
+    "E32BA573-CE04-46F8-9329-8ED646251794": {
+      "0604C763-6F34-4520-B9C8-3C356EF6164C": {
+        "symbolID": "B375A40F-18AF-4428-B382-07C1E6DA05F0"
+      },
+      "symbolID": "7AA419B4-21CA-43B8-BAC8-7DCC49024153"
     }
   },
   "resizingConstraint": 63,

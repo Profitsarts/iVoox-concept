@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5597,
+  "changeIdentifier": 10661,
   "do_objectID": "1E963446-7114-483F-A362-BFAFDBFAF53B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
+    "height": 49,
     "width": 375,
     "x": 0,
     "y": 0
@@ -32,6 +32,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      24,
+      51
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -41,7 +43,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,6 +52,26 @@
     {
       "class": "symbolInstance",
       "id": "4BAA1383-4886-4730-AA54-8E8D08A94D7B"
+    },
+    {
+      "class": "text",
+      "id": "81DF3BC4-6D3D-4516-8908-B54B92310A82"
+    },
+    {
+      "class": "text",
+      "id": "EAFB707C-66C0-4799-87F3-3FAF0DC5008E"
+    },
+    {
+      "class": "text",
+      "id": "5C5AEA8E-3032-4AD9-9F1B-80DE824978FD"
+    },
+    {
+      "class": "text",
+      "id": "B8EF171E-F946-40C8-8F80-B6E4E98CB563"
+    },
+    {
+      "class": "text",
+      "id": "C5959AAE-0173-4163-9AD9-90B77242A561"
     },
     {
       "class": "group",
@@ -79,6 +101,11 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      5,
+      46,
+      37,
+      8,
+      30
     ]
   }
 }

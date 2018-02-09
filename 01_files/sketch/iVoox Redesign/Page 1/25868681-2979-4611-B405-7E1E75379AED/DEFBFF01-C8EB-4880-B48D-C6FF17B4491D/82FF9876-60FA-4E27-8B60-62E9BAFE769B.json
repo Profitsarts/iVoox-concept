@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 493,
+    "height": 516,
     "width": 327,
     "x": 0,
     "y": 0
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 11,
-  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMaxYPadding": 22,
   "masterInfluenceEdgeMinXPadding": 33,
   "masterInfluenceEdgeMinYPadding": 17,
   "name": "modules/galleries/special_full",
@@ -77,7 +77,7 @@
       "_class": "overrideValue",
       "do_objectID": "B5AA5B80-4ABF-48F3-AF62-81DDB3C2642E",
       "overrideName": "EE47F51F-5A06-4832-AF62-7C64CFAB34B6/DD5102F9-7F70-4E06-BADB-D1D58283ADBF/827542E6-8AB2-4C45-B8D4-BC84C6CC6760_stringValue",
-      "value": "VER PODCASTS"
+      "value": "VER PODCAST"
     },
     {
       "_class": "overrideValue",
@@ -142,7 +142,7 @@
     },
     "EE47F51F-5A06-4832-AF62-7C64CFAB34B6": {
       "DD5102F9-7F70-4E06-BADB-D1D58283ADBF": {
-        "827542E6-8AB2-4C45-B8D4-BC84C6CC6760": "VER PODCASTS",
+        "827542E6-8AB2-4C45-B8D4-BC84C6CC6760": "VER PODCAST",
         "DF2CEAE4-D56A-4878-9E40-30781CBA2A0A": "VER PODCASTS"
       },
       "F1181091-124C-4800-BBA9-B23E47D39FAA": {

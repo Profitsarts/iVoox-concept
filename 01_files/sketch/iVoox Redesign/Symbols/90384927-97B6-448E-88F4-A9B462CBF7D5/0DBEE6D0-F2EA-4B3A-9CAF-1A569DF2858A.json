@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "9F46BF1F-95B4-4EFF-AC06-3700BEA72637",
       "overrideName": "64A2DFFD-6288-4BD6-90CF-6ABBD45B5872_stringValue",
-      "value": "DESTINO ARRAKIS"
+      "value": "Title"
     },
     {
       "_class": "overrideValue",
@@ -57,7 +57,7 @@
       },
       "symbolID": "1725B814-3FC7-4727-97F3-7F93AA4C5C91"
     },
-    "64A2DFFD-6288-4BD6-90CF-6ABBD45B5872": "DESTINO ARRAKIS"
+    "64A2DFFD-6288-4BD6-90CF-6ABBD45B5872": "Title"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

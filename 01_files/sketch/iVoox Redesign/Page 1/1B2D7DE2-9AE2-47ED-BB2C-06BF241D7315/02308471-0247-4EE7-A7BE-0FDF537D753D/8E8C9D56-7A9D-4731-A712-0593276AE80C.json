@@ -36,13 +36,20 @@
       "do_objectID": "F4E2B7E3-8FFD-4551-956B-925CD8E141BA",
       "overrideName": "0DBEE6D0-F2EA-4B3A-9CAF-1A569DF2858A/120F63FC-5BC0-4894-932E-81D9EEA3FD4F_symbolID",
       "value": "D8F6CE52-3B95-454A-95EC-267630B62360"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F573B01C-EDD7-4970-B277-5E6316C7C12B",
+      "overrideName": "0DBEE6D0-F2EA-4B3A-9CAF-1A569DF2858A/64A2DFFD-6288-4BD6-90CF-6ABBD45B5872_stringValue",
+      "value": "DESTINO ARRAKIS"
     }
   ],
   "overrides": {
     "0DBEE6D0-F2EA-4B3A-9CAF-1A569DF2858A": {
       "120F63FC-5BC0-4894-932E-81D9EEA3FD4F": {
         "symbolID": "D8F6CE52-3B95-454A-95EC-267630B62360"
-      }
+      },
+      "64A2DFFD-6288-4BD6-90CF-6ABBD45B5872": "DESTINO ARRAKIS"
     }
   },
   "resizingConstraint": 63,

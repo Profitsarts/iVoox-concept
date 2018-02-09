@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 98,
-    "width": 40,
+    "height": 96,
+    "width": 32,
     "x": 275,
-    "y": 90
+    "y": 91
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -66,7 +66,7 @@
           "scaleFactor": 1
         },
         "isCollapsing": 1,
-        "spacing": 18,
+        "spacing": 32,
         "type": 0
       },
       "kViewTypeKey": "ADModelStackView"

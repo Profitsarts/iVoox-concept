@@ -430,7 +430,27 @@
     },
     {
       "class": "group",
-      "id": "3958EE85-EF21-42FA-881D-6CCF641DB698"
+      "id": "3B080494-ED78-48EF-9304-B9C012EC1D36"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8EBBE5F3-6F4F-4635-B003-A11018ED08CA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "470B2F1A-0B92-4E4E-A354-561E74C36BEA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E51D4314-198F-4E21-82A9-02003E46C568"
+    },
+    {
+      "class": "group",
+      "id": "0E12F432-8ADA-45F8-BBF0-1093C48E2EAB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F46B291B-95D4-428F-84B2-306481AF6294"
     }
   ],
   "name": "Symbols",
